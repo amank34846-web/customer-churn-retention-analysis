@@ -1,0 +1,1501 @@
+Customer_ID,Age,Region,Plan,Contract_Type,Payment_Method,Tenure_Months,Monthly_Fee,Discount_Pct,Support_Tickets,Late_Payments,Usage_Hours_Monthly,Satisfaction_Score,Churn,Annual_Value
+CUST10001,56,South,Standard,Annual,UPI,24,899.0,10,1,2,14.5,4.1,0,9709.2
+CUST10002,46,West,Standard,Annual,Net Banking,13,799.0,5,3,1,14.6,3.8,0,9108.6
+CUST10003,32,East,Basic,Annual,Net Banking,26,499.0,15,0,0,26.6,5.0,0,5089.8
+CUST10004,60,West,Basic,Monthly,Credit Card,29,549.0,5,4,0,28.9,5.0,0,6258.599999999999
+CUST10005,25,West,Standard,Quarterly,Net Banking,43,799.0,0,2,0,35.6,3.1,0,9588.0
+CUST10006,38,West,Standard,Monthly,UPI,28,799.0,5,1,2,16.4,4.4,0,9108.6
+CUST10007,56,North,Basic,Monthly,UPI,28,599.0,10,1,0,24.7,5.0,0,6469.2
+CUST10008,36,East,Standard,Annual,Net Banking,8,799.0,10,3,0,16.8,4.4,0,8629.2
+CUST10009,40,East,Basic,Monthly,UPI,23,599.0,5,2,1,22.2,4.1,0,6828.599999999999
+CUST10010,28,West,Standard,Quarterly,UPI,29,799.0,15,1,2,10.2,1.9,0,8149.8
+CUST10011,28,North,Basic,Annual,Credit Card,5,549.0,0,2,0,13.0,3.0,0,6588.0
+CUST10012,41,North,Premium,Annual,Net Banking,42,1249.0,5,1,0,28.4,3.1,0,14238.599999999999
+CUST10013,53,East,Basic,Annual,UPI,7,499.0,15,2,0,10.1,4.7,0,5089.8
+CUST10014,57,North,Basic,Monthly,Net Banking,42,599.0,15,3,2,26.9,2.8,0,6109.8
+CUST10015,41,North,Basic,Monthly,Credit Card,36,499.0,10,2,0,16.6,3.4,0,5389.2
+CUST10016,20,North,Basic,Monthly,Net Banking,41,599.0,15,1,0,6.6,4.3,0,6109.8
+CUST10017,39,South,Premium,Monthly,UPI,27,1249.0,0,0,0,2.0,2.8,0,14988.0
+CUST10018,19,West,Premium,Monthly,Net Banking,46,1199.0,15,0,1,33.7,3.8,0,12229.8
+CUST10019,41,East,Basic,Monthly,UPI,2,599.0,5,1,0,6.8,3.6,0,6828.599999999999
+CUST10020,47,East,Standard,Quarterly,UPI,25,799.0,0,2,2,21.5,4.3,0,9588.0
+CUST10021,55,South,Standard,Quarterly,UPI,9,849.0,0,2,1,24.8,4.1,0,10188.0
+CUST10022,19,West,Premium,Monthly,Credit Card,27,1199.0,5,2,3,11.5,4.1,0,13668.599999999999
+CUST10023,38,East,Standard,Quarterly,Net Banking,1,899.0,0,1,0,17.6,3.7,0,10788.0
+CUST10024,50,North,Standard,Monthly,Credit Card,23,849.0,5,1,0,25.8,2.0,0,9678.6
+CUST10025,29,East,Standard,Monthly,Net Banking,10,799.0,0,2,0,24.3,3.6,0,9588.0
+CUST10026,39,North,Standard,Quarterly,Credit Card,42,849.0,0,0,2,18.3,3.5,0,10188.0
+CUST10027,42,South,Basic,Quarterly,Debit Card,25,499.0,5,1,0,23.9,4.2,0,5688.599999999999
+CUST10028,44,North,Standard,Quarterly,UPI,3,799.0,5,3,0,21.2,3.1,1,9108.6
+CUST10029,59,East,Basic,Monthly,UPI,6,499.0,5,0,0,14.2,3.5,0,5688.599999999999
+CUST10030,45,East,Standard,Annual,Credit Card,6,799.0,10,0,0,31.6,3.6,0,8629.2
+CUST10031,33,East,Basic,Quarterly,Debit Card,2,499.0,15,1,0,23.7,2.9,0,5089.8
+CUST10032,32,South,Standard,Quarterly,UPI,18,799.0,10,1,1,7.3,2.5,0,8629.2
+CUST10033,20,South,Standard,Quarterly,Net Banking,23,799.0,5,0,1,26.2,3.8,0,9108.6
+CUST10034,54,West,Standard,Annual,Credit Card,2,799.0,10,2,0,17.1,4.4,0,8629.2
+CUST10035,24,East,Basic,Quarterly,UPI,12,499.0,0,2,1,19.7,2.9,0,5988.0
+CUST10036,38,North,Standard,Quarterly,UPI,22,849.0,0,2,1,22.1,3.3,0,10188.0
+CUST10037,26,South,Standard,Annual,Credit Card,37,849.0,5,0,0,15.7,4.2,0,9678.6
+CUST10038,56,East,Standard,Quarterly,Credit Card,20,799.0,15,3,2,36.4,4.3,0,8149.8
+CUST10039,35,East,Standard,Monthly,Net Banking,39,899.0,0,0,0,10.1,3.7,0,10788.0
+CUST10040,21,South,Standard,Quarterly,Net Banking,24,849.0,0,2,0,22.5,3.9,0,10188.0
+CUST10041,42,West,Premium,Monthly,UPI,48,1249.0,0,3,0,25.1,4.0,0,14988.0
+CUST10042,31,South,Basic,Monthly,UPI,20,499.0,15,4,1,22.3,4.1,0,5089.8
+CUST10043,26,South,Premium,Quarterly,Credit Card,1,1199.0,10,2,0,20.5,2.5,0,12949.2
+CUST10044,43,North,Standard,Annual,UPI,1,899.0,0,2,1,19.0,5.0,0,10788.0
+CUST10045,19,North,Basic,Annual,UPI,17,549.0,5,1,2,15.6,3.7,0,6258.599999999999
+CUST10046,37,West,Basic,Monthly,Credit Card,1,499.0,5,4,2,15.4,4.2,1,5688.599999999999
+CUST10047,45,East,Basic,Monthly,UPI,45,499.0,10,3,0,31.3,2.8,0,5389.2
+CUST10048,24,South,Standard,Monthly,UPI,30,849.0,0,3,1,18.5,3.3,0,10188.0
+CUST10049,25,West,Standard,Annual,Debit Card,41,849.0,15,2,1,39.1,3.8,0,8659.8
+CUST10050,52,North,Standard,Annual,Net Banking,47,899.0,0,1,1,27.4,1.9,0,10788.0
+CUST10051,31,South,Standard,Quarterly,Credit Card,3,799.0,10,3,1,2.0,2.7,0,8629.2
+CUST10052,34,East,Standard,Annual,Debit Card,46,799.0,0,1,1,29.1,2.8,0,9588.0
+CUST10053,53,North,Basic,Quarterly,Net Banking,11,499.0,5,0,1,21.6,2.3,0,5688.599999999999
+CUST10054,57,North,Basic,Quarterly,Net Banking,24,499.0,5,3,0,10.9,3.6,0,5688.599999999999
+CUST10055,21,North,Standard,Monthly,Net Banking,22,799.0,5,2,2,32.4,3.4,0,9108.6
+CUST10056,19,West,Basic,Monthly,Debit Card,44,599.0,0,3,0,18.5,4.8,0,7188.0
+CUST10057,23,East,Basic,Quarterly,Debit Card,45,499.0,10,3,0,17.8,2.5,0,5389.2
+CUST10058,59,South,Standard,Quarterly,Net Banking,26,849.0,0,0,2,25.0,3.7,0,10188.0
+CUST10059,21,West,Standard,Monthly,UPI,13,799.0,10,3,1,31.1,2.7,1,8629.2
+CUST10060,46,West,Premium,Annual,UPI,1,1199.0,15,2,1,22.9,2.0,0,12229.8
+CUST10061,35,West,Premium,Monthly,Debit Card,24,1199.0,5,2,0,22.3,4.0,0,13668.599999999999
+CUST10062,43,North,Standard,Monthly,Debit Card,10,799.0,10,3,0,16.4,4.1,0,8629.2
+CUST10063,51,East,Standard,Quarterly,Debit Card,35,849.0,10,1,0,31.0,4.0,0,9169.2
+CUST10064,27,West,Standard,Quarterly,Net Banking,24,799.0,5,1,1,23.0,2.3,0,9108.6
+CUST10065,53,South,Standard,Quarterly,UPI,28,799.0,15,2,0,20.2,3.6,0,8149.8
+CUST10066,31,East,Basic,Monthly,Debit Card,36,499.0,0,1,0,19.2,4.0,0,5988.0
+CUST10067,48,South,Standard,Monthly,Debit Card,16,799.0,5,0,0,30.2,4.4,0,9108.6
+CUST10068,32,East,Premium,Quarterly,Credit Card,40,1249.0,10,2,2,19.9,4.1,0,13489.2
+CUST10069,25,South,Standard,Quarterly,Net Banking,16,799.0,5,4,1,30.2,4.4,0,9108.6
+CUST10070,31,North,Standard,Monthly,Credit Card,17,849.0,0,2,4,18.2,4.5,0,10188.0
+CUST10071,40,West,Standard,Quarterly,UPI,15,849.0,5,0,1,27.8,3.6,0,9678.6
+CUST10072,57,South,Basic,Monthly,Credit Card,16,499.0,15,1,0,23.7,3.9,0,5089.8
+CUST10073,38,East,Basic,Quarterly,Credit Card,15,499.0,15,5,0,14.4,4.4,0,5089.8
+CUST10074,33,West,Basic,Annual,Credit Card,34,549.0,5,4,0,21.3,3.9,0,6258.599999999999
+CUST10075,35,West,Basic,Monthly,Net Banking,11,549.0,10,4,1,4.5,4.6,0,5929.2
+CUST10076,41,East,Basic,Monthly,UPI,1,499.0,15,4,0,16.0,4.3,1,5089.8
+CUST10077,43,South,Premium,Quarterly,Credit Card,15,1199.0,0,3,0,9.4,2.9,0,14388.0
+CUST10078,42,North,Basic,Quarterly,Net Banking,26,499.0,0,2,0,38.0,2.3,0,5988.0
+CUST10079,58,North,Standard,Quarterly,UPI,4,799.0,10,1,2,9.5,3.5,0,8629.2
+CUST10080,46,South,Basic,Annual,Debit Card,43,499.0,15,1,1,42.7,2.4,0,5089.8
+CUST10081,32,West,Premium,Annual,Credit Card,5,1199.0,15,1,0,26.1,3.6,0,12229.8
+CUST10082,18,West,Basic,Annual,UPI,35,499.0,5,0,0,17.8,3.5,0,5688.599999999999
+CUST10083,42,West,Standard,Monthly,Credit Card,13,799.0,0,1,1,28.5,4.7,0,9588.0
+CUST10084,24,West,Premium,Monthly,Debit Card,10,1199.0,5,4,0,16.8,4.0,0,13668.599999999999
+CUST10085,26,South,Premium,Monthly,UPI,11,1299.0,0,0,1,10.7,4.4,0,15588.0
+CUST10086,41,West,Basic,Monthly,Net Banking,18,549.0,0,1,0,22.6,3.1,0,6588.0
+CUST10087,18,East,Premium,Quarterly,UPI,34,1299.0,10,3,0,27.6,4.9,0,14029.2
+CUST10088,25,West,Standard,Monthly,Net Banking,39,799.0,0,1,0,32.2,4.3,0,9588.0
+CUST10089,41,North,Standard,Annual,UPI,41,849.0,15,2,0,26.0,3.9,0,8659.8
+CUST10090,28,West,Basic,Quarterly,Net Banking,42,499.0,5,1,0,17.8,1.9,0,5688.599999999999
+CUST10091,34,South,Basic,Quarterly,Debit Card,23,549.0,5,2,2,33.1,4.6,1,6258.599999999999
+CUST10092,25,North,Standard,Monthly,Debit Card,7,799.0,0,3,1,31.3,5.0,0,9588.0
+CUST10093,52,South,Standard,Monthly,Debit Card,39,799.0,5,1,0,24.2,3.5,0,9108.6
+CUST10094,52,South,Standard,Monthly,UPI,3,899.0,0,5,0,31.7,3.5,0,10788.0
+CUST10095,50,North,Standard,Monthly,Debit Card,12,849.0,20,5,1,39.5,3.0,0,8150.400000000001
+CUST10096,22,South,Standard,Monthly,Credit Card,7,899.0,15,1,1,17.7,2.0,0,9169.8
+CUST10097,59,South,Basic,Quarterly,Debit Card,26,499.0,5,0,1,14.8,3.0,0,5688.599999999999
+CUST10098,56,West,Standard,Annual,Net Banking,33,799.0,0,1,1,17.4,5.0,0,9588.0
+CUST10099,58,East,Basic,Annual,Net Banking,37,499.0,15,3,0,11.2,4.5,0,5089.8
+CUST10100,45,South,Standard,Quarterly,Net Banking,48,849.0,5,1,1,26.7,2.8,0,9678.6
+CUST10101,24,South,Standard,Monthly,UPI,15,849.0,0,0,0,9.1,3.0,0,10188.0
+CUST10102,26,South,Premium,Annual,Credit Card,2,1299.0,5,3,0,32.1,5.0,0,14808.599999999999
+CUST10103,25,West,Basic,Annual,Debit Card,41,499.0,20,2,0,16.6,2.6,0,4790.400000000001
+CUST10104,29,East,Basic,Monthly,Credit Card,7,549.0,0,0,0,32.9,2.9,0,6588.0
+CUST10105,51,North,Basic,Quarterly,Credit Card,32,499.0,0,0,0,2.0,3.1,0,5988.0
+CUST10106,50,West,Basic,Monthly,Net Banking,4,499.0,15,1,2,18.9,2.3,1,5089.8
+CUST10107,40,West,Basic,Annual,Net Banking,20,499.0,0,2,2,11.7,3.0,0,5988.0
+CUST10108,41,East,Premium,Annual,Net Banking,36,1199.0,0,1,0,32.8,3.0,0,14388.0
+CUST10109,54,East,Basic,Monthly,UPI,32,499.0,5,0,1,35.4,2.7,0,5688.599999999999
+CUST10110,52,West,Basic,Annual,Credit Card,28,499.0,15,3,0,3.2,4.7,0,5089.8
+CUST10111,57,North,Standard,Quarterly,Credit Card,13,799.0,5,0,1,28.9,2.4,0,9108.6
+CUST10112,39,West,Standard,Annual,UPI,1,799.0,20,2,0,30.5,3.4,0,7670.400000000001
+CUST10113,44,East,Standard,Monthly,UPI,35,799.0,10,1,0,24.6,2.7,0,8629.2
+CUST10114,52,North,Basic,Annual,UPI,48,499.0,0,1,0,26.7,3.3,0,5988.0
+CUST10115,18,East,Standard,Monthly,Credit Card,30,799.0,20,3,2,26.1,2.7,0,7670.400000000001
+CUST10116,52,North,Basic,Monthly,Credit Card,36,599.0,5,2,2,29.0,3.6,0,6828.599999999999
+CUST10117,54,South,Basic,Monthly,Net Banking,25,599.0,0,3,1,13.3,3.8,0,7188.0
+CUST10118,31,East,Premium,Annual,Net Banking,16,1199.0,5,3,1,31.6,4.8,0,13668.599999999999
+CUST10119,20,East,Basic,Annual,Credit Card,19,599.0,0,5,1,23.7,3.0,0,7188.0
+CUST10120,18,West,Standard,Annual,Net Banking,1,849.0,0,2,2,23.2,5.0,0,10188.0
+CUST10121,22,East,Standard,Annual,UPI,5,799.0,0,0,0,26.5,2.8,0,9588.0
+CUST10122,43,East,Basic,Monthly,Debit Card,22,499.0,5,1,0,11.8,3.3,0,5688.599999999999
+CUST10123,31,South,Premium,Monthly,Net Banking,24,1299.0,15,1,1,9.6,5.0,0,13249.8
+CUST10124,56,East,Basic,Monthly,Credit Card,43,549.0,5,2,1,21.0,5.0,0,6258.599999999999
+CUST10125,44,South,Standard,Monthly,Net Banking,45,849.0,20,3,0,34.3,5.0,0,8150.400000000001
+CUST10126,26,South,Premium,Monthly,Net Banking,37,1299.0,0,4,0,12.5,3.3,0,15588.0
+CUST10127,32,South,Standard,Monthly,Net Banking,36,799.0,0,0,0,23.4,4.0,0,9588.0
+CUST10128,32,South,Premium,Monthly,Debit Card,36,1199.0,0,1,2,16.3,4.1,0,14388.0
+CUST10129,43,North,Basic,Monthly,UPI,4,499.0,0,2,1,15.2,3.8,0,5988.0
+CUST10130,59,West,Standard,Monthly,Credit Card,36,799.0,0,2,1,26.0,2.6,0,9588.0
+CUST10131,30,North,Basic,Monthly,Debit Card,18,499.0,10,3,2,28.1,3.7,0,5389.2
+CUST10132,49,East,Standard,Annual,Credit Card,16,799.0,15,1,1,15.7,3.0,0,8149.8
+CUST10133,56,North,Premium,Quarterly,Credit Card,41,1199.0,20,1,0,33.1,2.6,0,11510.400000000001
+CUST10134,49,North,Basic,Annual,Credit Card,18,499.0,0,2,0,25.4,3.2,0,5988.0
+CUST10135,21,East,Standard,Monthly,Debit Card,22,799.0,15,0,0,20.1,3.8,0,8149.8
+CUST10136,47,East,Basic,Monthly,UPI,2,499.0,5,3,0,24.8,4.4,0,5688.599999999999
+CUST10137,54,East,Standard,Quarterly,Credit Card,21,799.0,0,3,0,38.3,3.3,0,9588.0
+CUST10138,40,North,Standard,Monthly,UPI,36,799.0,15,3,0,28.0,3.4,0,8149.8
+CUST10139,56,North,Premium,Monthly,UPI,44,1249.0,10,3,0,16.4,4.2,0,13489.2
+CUST10140,32,East,Standard,Monthly,Net Banking,39,899.0,0,2,2,21.9,3.6,0,10788.0
+CUST10141,60,West,Basic,Monthly,Debit Card,47,499.0,5,5,0,23.1,3.8,0,5688.599999999999
+CUST10142,46,West,Basic,Monthly,Debit Card,39,499.0,0,3,0,27.3,3.6,0,5988.0
+CUST10143,53,South,Basic,Monthly,Net Banking,29,599.0,10,1,1,23.9,3.7,0,6469.2
+CUST10144,30,East,Basic,Quarterly,Net Banking,26,499.0,5,4,0,37.2,2.5,0,5688.599999999999
+CUST10145,49,South,Basic,Monthly,UPI,21,549.0,20,2,0,20.2,3.6,0,5270.400000000001
+CUST10146,24,West,Premium,Monthly,Credit Card,17,1199.0,0,2,0,8.2,4.8,0,14388.0
+CUST10147,39,South,Standard,Annual,Debit Card,16,849.0,5,0,0,23.7,3.7,0,9678.6
+CUST10148,45,East,Standard,Monthly,Credit Card,31,899.0,5,1,2,18.5,2.7,0,10248.6
+CUST10149,19,East,Basic,Monthly,Credit Card,9,549.0,5,2,1,10.0,4.8,0,6258.599999999999
+CUST10150,59,East,Premium,Annual,Net Banking,31,1199.0,0,1,0,16.4,4.1,0,14388.0
+CUST10151,23,North,Standard,Monthly,Credit Card,14,899.0,10,3,1,19.1,4.2,0,9709.2
+CUST10152,45,South,Basic,Monthly,UPI,37,549.0,15,5,0,31.1,4.2,0,5599.8
+CUST10153,45,West,Standard,Monthly,Net Banking,2,849.0,15,2,0,10.1,2.5,0,8659.8
+CUST10154,37,West,Standard,Monthly,Credit Card,48,799.0,15,2,2,24.8,4.1,0,8149.8
+CUST10155,47,West,Basic,Quarterly,Net Banking,46,549.0,15,2,0,39.8,4.7,0,5599.8
+CUST10156,28,North,Standard,Annual,UPI,14,799.0,5,1,0,20.6,3.1,0,9108.6
+CUST10157,45,North,Standard,Monthly,UPI,33,799.0,15,1,2,20.4,1.8,0,8149.8
+CUST10158,42,East,Basic,Quarterly,Credit Card,35,549.0,0,3,1,27.8,3.8,0,6588.0
+CUST10159,56,West,Premium,Monthly,Net Banking,39,1199.0,5,4,0,26.2,3.5,0,13668.599999999999
+CUST10160,50,North,Premium,Monthly,Credit Card,47,1249.0,0,2,0,33.3,2.1,0,14988.0
+CUST10161,18,East,Standard,Quarterly,Credit Card,20,849.0,5,4,1,20.7,4.0,0,9678.6
+CUST10162,44,West,Standard,Monthly,Net Banking,2,799.0,0,2,2,27.6,4.0,1,9588.0
+CUST10163,30,South,Standard,Monthly,Credit Card,41,849.0,20,3,0,27.7,2.2,0,8150.400000000001
+CUST10164,58,East,Standard,Monthly,UPI,19,899.0,0,2,1,19.3,5.0,0,10788.0
+CUST10165,20,North,Standard,Monthly,Net Banking,37,799.0,0,3,1,21.1,4.2,0,9588.0
+CUST10166,56,North,Basic,Monthly,Net Banking,18,549.0,5,2,1,21.9,1.8,1,6258.599999999999
+CUST10167,23,East,Standard,Annual,Net Banking,16,799.0,0,3,2,12.1,4.2,0,9588.0
+CUST10168,25,East,Premium,Monthly,Net Banking,4,1199.0,0,0,0,18.9,4.2,0,14388.0
+CUST10169,44,North,Standard,Monthly,Credit Card,12,799.0,0,2,0,34.0,4.8,0,9588.0
+CUST10170,26,South,Basic,Monthly,Credit Card,29,499.0,5,2,0,30.3,2.9,0,5688.599999999999
+CUST10171,54,West,Standard,Quarterly,UPI,7,799.0,5,3,0,17.4,4.2,0,9108.6
+CUST10172,50,South,Basic,Quarterly,Debit Card,14,599.0,10,2,0,21.9,3.3,0,6469.2
+CUST10173,59,East,Basic,Quarterly,Debit Card,12,549.0,10,0,2,29.8,3.0,0,5929.2
+CUST10174,41,South,Basic,Quarterly,UPI,35,499.0,5,1,1,25.5,2.7,0,5688.599999999999
+CUST10175,32,North,Basic,Annual,Debit Card,5,499.0,5,4,1,28.4,1.8,0,5688.599999999999
+CUST10176,49,East,Standard,Monthly,UPI,17,799.0,0,2,0,26.3,4.0,0,9588.0
+CUST10177,49,West,Standard,Monthly,Credit Card,42,799.0,10,2,0,23.7,3.3,0,8629.2
+CUST10178,41,North,Basic,Annual,Net Banking,32,499.0,0,1,2,20.7,1.0,0,5988.0
+CUST10179,58,North,Premium,Annual,Net Banking,10,1199.0,0,2,1,12.4,3.6,0,14388.0
+CUST10180,29,West,Premium,Annual,Credit Card,43,1199.0,10,1,0,27.5,4.5,0,12949.2
+CUST10181,56,West,Premium,Monthly,Net Banking,17,1199.0,5,2,2,20.2,2.3,1,13668.599999999999
+CUST10182,19,South,Basic,Monthly,Net Banking,5,549.0,0,1,1,8.8,2.9,0,6588.0
+CUST10183,20,East,Standard,Monthly,Debit Card,45,849.0,0,2,2,17.6,3.9,0,10188.0
+CUST10184,54,West,Premium,Quarterly,Credit Card,42,1199.0,15,1,2,28.8,1.2,0,12229.8
+CUST10185,34,West,Standard,Monthly,Debit Card,9,799.0,15,3,1,6.7,3.0,1,8149.8
+CUST10186,19,East,Basic,Monthly,Debit Card,33,499.0,10,1,0,13.8,3.8,0,5389.2
+CUST10187,19,West,Basic,Annual,Net Banking,36,599.0,5,2,1,23.1,3.0,0,6828.599999999999
+CUST10188,45,West,Standard,Monthly,Net Banking,36,849.0,5,1,1,33.2,2.3,0,9678.6
+CUST10189,40,South,Premium,Annual,Credit Card,18,1249.0,20,0,0,30.0,2.4,0,11990.400000000001
+CUST10190,54,North,Standard,Monthly,Net Banking,9,899.0,20,1,0,34.0,2.0,1,8630.4
+CUST10191,49,North,Standard,Monthly,Net Banking,29,799.0,0,2,1,23.7,2.9,0,9588.0
+CUST10192,50,North,Basic,Monthly,Credit Card,14,599.0,15,0,0,20.3,4.5,0,6109.8
+CUST10193,18,North,Standard,Quarterly,Net Banking,25,799.0,0,2,0,28.7,5.0,0,9588.0
+CUST10194,36,West,Premium,Monthly,Debit Card,15,1199.0,0,2,1,14.8,3.5,0,14388.0
+CUST10195,19,East,Standard,Monthly,Credit Card,6,849.0,10,0,1,14.2,4.2,0,9169.2
+CUST10196,43,East,Standard,Annual,Net Banking,42,799.0,5,1,1,12.8,2.7,0,9108.6
+CUST10197,49,South,Premium,Monthly,UPI,29,1249.0,15,2,0,30.7,1.6,0,12739.8
+CUST10198,23,South,Basic,Quarterly,Credit Card,15,499.0,0,0,1,15.3,5.0,0,5988.0
+CUST10199,49,West,Standard,Quarterly,Credit Card,29,849.0,5,4,1,30.0,3.0,0,9678.6
+CUST10200,21,East,Basic,Monthly,UPI,4,499.0,15,4,0,23.2,4.1,1,5089.8
+CUST10201,28,East,Standard,Quarterly,Net Banking,18,799.0,15,1,0,30.8,3.6,0,8149.8
+CUST10202,34,North,Standard,Monthly,Net Banking,44,899.0,0,2,0,13.2,4.4,0,10788.0
+CUST10203,55,West,Standard,Quarterly,Credit Card,39,899.0,5,3,1,17.0,4.4,0,10248.6
+CUST10204,41,West,Standard,Monthly,Credit Card,16,899.0,10,4,1,25.6,3.7,0,9709.2
+CUST10205,22,North,Standard,Quarterly,Net Banking,11,849.0,0,3,0,18.6,3.8,0,10188.0
+CUST10206,51,West,Premium,Monthly,Net Banking,14,1249.0,20,1,1,2.1,4.6,0,11990.400000000001
+CUST10207,23,West,Standard,Quarterly,Debit Card,3,849.0,15,3,1,11.0,3.1,0,8659.8
+CUST10208,39,South,Basic,Monthly,Credit Card,42,499.0,0,1,0,13.1,4.9,0,5988.0
+CUST10209,28,East,Standard,Monthly,Credit Card,38,799.0,0,1,2,13.7,2.9,0,9588.0
+CUST10210,33,West,Standard,Monthly,UPI,45,799.0,0,1,0,27.5,3.6,0,9588.0
+CUST10211,50,South,Basic,Monthly,Debit Card,42,599.0,15,3,3,24.7,4.1,0,6109.8
+CUST10212,26,East,Premium,Annual,Net Banking,18,1199.0,0,0,1,23.3,2.0,0,14388.0
+CUST10213,23,North,Premium,Monthly,Debit Card,20,1299.0,5,3,0,38.1,4.7,0,14808.599999999999
+CUST10214,33,South,Basic,Annual,Net Banking,48,499.0,5,0,1,31.4,3.9,0,5688.599999999999
+CUST10215,46,South,Premium,Annual,Net Banking,25,1249.0,5,2,0,28.4,5.0,0,14238.599999999999
+CUST10216,20,East,Basic,Quarterly,Debit Card,38,499.0,0,0,0,10.0,5.0,0,5988.0
+CUST10217,37,North,Basic,Monthly,Credit Card,13,499.0,0,0,0,22.5,3.5,0,5988.0
+CUST10218,53,South,Basic,Monthly,Net Banking,4,599.0,15,0,1,24.4,5.0,0,6109.8
+CUST10219,36,West,Premium,Quarterly,Debit Card,14,1199.0,15,1,0,18.7,4.3,0,12229.8
+CUST10220,43,West,Standard,Monthly,UPI,33,799.0,10,1,1,35.7,3.7,0,8629.2
+CUST10221,20,West,Basic,Monthly,Debit Card,28,499.0,0,3,1,22.4,2.0,0,5988.0
+CUST10222,36,North,Standard,Quarterly,UPI,37,799.0,5,1,2,12.2,2.2,0,9108.6
+CUST10223,37,South,Standard,Annual,Net Banking,8,799.0,10,0,0,14.0,3.5,0,8629.2
+CUST10224,49,West,Basic,Quarterly,Debit Card,44,549.0,0,3,0,40.3,3.1,0,6588.0
+CUST10225,24,North,Premium,Monthly,Debit Card,34,1199.0,15,2,1,18.6,3.7,0,12229.8
+CUST10226,58,West,Premium,Quarterly,UPI,44,1249.0,10,1,1,5.4,4.7,0,13489.2
+CUST10227,50,East,Standard,Monthly,Debit Card,5,799.0,0,1,1,17.2,4.3,0,9588.0
+CUST10228,57,South,Premium,Monthly,Debit Card,5,1249.0,15,3,2,7.4,2.9,1,12739.8
+CUST10229,56,South,Standard,Annual,Net Banking,31,849.0,20,3,0,29.3,4.3,0,8150.400000000001
+CUST10230,35,North,Premium,Monthly,Debit Card,45,1199.0,0,1,0,6.4,2.7,0,14388.0
+CUST10231,57,North,Standard,Monthly,Credit Card,9,799.0,5,2,1,10.8,2.5,0,9108.6
+CUST10232,18,South,Standard,Monthly,UPI,42,799.0,0,3,0,22.0,3.8,0,9588.0
+CUST10233,28,West,Basic,Annual,Debit Card,32,549.0,5,2,0,30.9,2.8,0,6258.599999999999
+CUST10234,45,West,Premium,Quarterly,UPI,33,1249.0,0,1,0,21.4,2.9,0,14988.0
+CUST10235,42,East,Standard,Quarterly,UPI,3,899.0,5,2,3,11.9,4.4,0,10248.6
+CUST10236,40,West,Basic,Quarterly,UPI,30,499.0,20,1,0,23.5,4.1,0,4790.400000000001
+CUST10237,48,North,Basic,Monthly,Debit Card,12,499.0,5,2,1,18.3,3.2,0,5688.599999999999
+CUST10238,47,North,Standard,Monthly,Debit Card,29,799.0,0,4,1,31.1,2.0,0,9588.0
+CUST10239,59,West,Standard,Monthly,UPI,3,799.0,10,1,0,28.8,2.8,0,8629.2
+CUST10240,52,North,Standard,Monthly,Credit Card,26,799.0,5,0,3,17.7,5.0,0,9108.6
+CUST10241,24,South,Premium,Monthly,UPI,30,1199.0,15,1,0,28.2,4.4,0,12229.8
+CUST10242,33,South,Basic,Annual,Credit Card,9,549.0,5,4,1,24.2,4.8,0,6258.599999999999
+CUST10243,43,West,Standard,Monthly,UPI,26,799.0,0,2,1,32.9,3.7,0,9588.0
+CUST10244,19,South,Basic,Monthly,Net Banking,2,549.0,0,0,3,27.9,3.2,0,6588.0
+CUST10245,18,South,Premium,Monthly,UPI,3,1199.0,10,1,0,26.4,4.3,0,12949.2
+CUST10246,29,East,Premium,Monthly,UPI,46,1299.0,0,0,2,32.6,4.7,0,15588.0
+CUST10247,22,East,Standard,Annual,Debit Card,4,899.0,10,3,2,22.1,3.1,0,9709.2
+CUST10248,54,South,Standard,Monthly,Credit Card,25,899.0,0,1,0,15.8,2.9,0,10788.0
+CUST10249,49,West,Basic,Monthly,Net Banking,13,549.0,5,2,0,23.6,2.1,0,6258.599999999999
+CUST10250,26,East,Standard,Quarterly,Credit Card,39,849.0,5,2,0,19.2,2.8,0,9678.6
+CUST10251,58,North,Premium,Monthly,Net Banking,44,1249.0,20,3,0,26.8,4.1,0,11990.400000000001
+CUST10252,52,North,Standard,Monthly,UPI,35,799.0,15,2,0,22.5,3.0,0,8149.8
+CUST10253,36,North,Basic,Monthly,Debit Card,23,549.0,0,1,0,25.2,4.3,0,6588.0
+CUST10254,33,West,Standard,Quarterly,Debit Card,9,849.0,5,4,0,12.4,5.0,0,9678.6
+CUST10255,20,South,Premium,Annual,Credit Card,2,1299.0,0,2,0,26.1,3.5,0,15588.0
+CUST10256,37,North,Basic,Quarterly,Debit Card,41,499.0,5,2,0,11.7,3.5,0,5688.599999999999
+CUST10257,41,West,Basic,Monthly,Credit Card,44,499.0,5,1,0,29.7,4.0,1,5688.599999999999
+CUST10258,50,East,Standard,Annual,Credit Card,31,849.0,15,4,1,29.7,3.0,0,8659.8
+CUST10259,41,South,Premium,Monthly,Net Banking,44,1299.0,15,1,0,24.8,2.9,0,13249.8
+CUST10260,28,East,Basic,Monthly,Credit Card,47,499.0,5,3,2,24.5,2.9,0,5688.599999999999
+CUST10261,25,West,Basic,Monthly,Net Banking,2,499.0,5,2,3,20.2,2.5,0,5688.599999999999
+CUST10262,53,North,Basic,Monthly,Debit Card,32,499.0,15,1,1,17.2,4.3,1,5089.8
+CUST10263,55,North,Basic,Monthly,Credit Card,18,499.0,15,1,2,21.9,3.1,0,5089.8
+CUST10264,57,West,Standard,Quarterly,Credit Card,13,799.0,0,0,1,37.9,4.5,0,9588.0
+CUST10265,37,North,Standard,Annual,UPI,46,799.0,5,1,2,23.8,4.0,0,9108.6
+CUST10266,52,South,Standard,Monthly,Credit Card,5,899.0,5,1,1,11.2,3.5,0,10248.6
+CUST10267,42,West,Standard,Monthly,Credit Card,42,799.0,0,1,0,8.3,4.2,0,9588.0
+CUST10268,52,East,Basic,Monthly,UPI,44,499.0,0,3,1,10.5,2.7,0,5988.0
+CUST10269,42,West,Premium,Monthly,UPI,10,1249.0,0,2,1,19.0,2.8,1,14988.0
+CUST10270,46,South,Standard,Quarterly,Debit Card,43,899.0,10,3,0,32.1,4.1,0,9709.2
+CUST10271,35,South,Premium,Monthly,Credit Card,25,1299.0,0,0,1,13.8,1.5,0,15588.0
+CUST10272,35,West,Standard,Annual,Debit Card,34,799.0,0,1,1,33.4,3.5,0,9588.0
+CUST10273,19,West,Basic,Monthly,Debit Card,37,599.0,0,1,2,23.4,4.0,0,7188.0
+CUST10274,52,North,Standard,Monthly,UPI,30,799.0,15,5,0,25.9,4.7,0,8149.8
+CUST10275,33,South,Basic,Monthly,Net Banking,7,549.0,15,5,1,25.6,4.9,0,5599.8
+CUST10276,58,West,Standard,Monthly,Debit Card,6,849.0,5,3,2,26.7,3.4,0,9678.6
+CUST10277,53,West,Basic,Monthly,Net Banking,3,499.0,5,3,2,18.7,4.2,0,5688.599999999999
+CUST10278,50,South,Basic,Quarterly,Credit Card,13,499.0,20,2,1,3.3,2.8,0,4790.400000000001
+CUST10279,21,West,Premium,Monthly,UPI,3,1199.0,0,2,0,17.3,3.1,0,14388.0
+CUST10280,50,North,Basic,Quarterly,Credit Card,26,599.0,0,2,0,14.9,4.7,0,7188.0
+CUST10281,31,South,Premium,Monthly,Credit Card,24,1199.0,0,0,1,24.5,3.5,0,14388.0
+CUST10282,38,North,Basic,Monthly,UPI,6,549.0,0,2,0,23.8,3.6,0,6588.0
+CUST10283,37,North,Standard,Monthly,Credit Card,43,799.0,5,1,0,19.8,2.6,0,9108.6
+CUST10284,25,North,Standard,Annual,UPI,42,799.0,15,2,2,36.0,3.9,0,8149.8
+CUST10285,24,North,Standard,Monthly,Net Banking,12,899.0,10,2,0,16.9,4.2,0,9709.2
+CUST10286,20,South,Basic,Quarterly,Credit Card,36,549.0,5,4,0,4.2,4.2,0,6258.599999999999
+CUST10287,34,North,Basic,Monthly,UPI,2,599.0,15,4,0,23.0,2.4,0,6109.8
+CUST10288,50,North,Basic,Quarterly,Debit Card,11,499.0,0,2,0,31.5,4.4,0,5988.0
+CUST10289,29,West,Basic,Monthly,Credit Card,39,499.0,0,2,2,24.3,2.6,0,5988.0
+CUST10290,39,South,Standard,Quarterly,Net Banking,34,799.0,5,4,0,19.1,3.5,0,9108.6
+CUST10291,39,South,Premium,Quarterly,UPI,26,1199.0,10,2,0,23.9,2.0,0,12949.2
+CUST10292,47,East,Premium,Annual,Credit Card,18,1199.0,0,4,0,36.7,3.3,1,14388.0
+CUST10293,55,South,Standard,Monthly,Credit Card,21,849.0,5,0,0,15.0,2.6,0,9678.6
+CUST10294,55,South,Standard,Monthly,Credit Card,36,799.0,10,0,0,22.2,3.1,0,8629.2
+CUST10295,25,East,Standard,Monthly,Net Banking,40,799.0,10,2,0,27.4,3.6,0,8629.2
+CUST10296,44,South,Basic,Annual,UPI,46,499.0,10,2,2,24.0,4.2,0,5389.2
+CUST10297,44,South,Premium,Monthly,Debit Card,44,1249.0,5,3,0,20.0,4.2,0,14238.599999999999
+CUST10298,51,South,Standard,Quarterly,Debit Card,22,849.0,0,3,2,18.6,1.4,0,10188.0
+CUST10299,38,South,Standard,Monthly,Debit Card,30,799.0,5,4,0,19.7,4.1,0,9108.6
+CUST10300,47,East,Basic,Monthly,UPI,43,499.0,0,1,1,26.3,3.7,0,5988.0
+CUST10301,50,South,Standard,Monthly,Debit Card,30,799.0,20,2,0,25.8,3.0,0,7670.400000000001
+CUST10302,45,South,Standard,Annual,Net Banking,8,899.0,5,1,1,38.8,2.7,0,10248.6
+CUST10303,50,East,Premium,Quarterly,UPI,34,1299.0,0,1,0,9.7,3.4,0,15588.0
+CUST10304,22,West,Standard,Annual,Credit Card,47,849.0,10,5,2,36.1,3.7,0,9169.2
+CUST10305,36,North,Standard,Monthly,Net Banking,9,799.0,5,1,1,20.4,3.8,0,9108.6
+CUST10306,21,West,Premium,Quarterly,Credit Card,20,1199.0,0,3,0,21.3,3.3,0,14388.0
+CUST10307,52,East,Basic,Quarterly,Debit Card,40,549.0,15,1,1,28.9,1.2,0,5599.8
+CUST10308,34,North,Standard,Monthly,Net Banking,25,899.0,15,0,0,28.8,3.1,0,9169.8
+CUST10309,45,East,Basic,Annual,UPI,19,599.0,10,1,0,31.3,2.4,1,6469.2
+CUST10310,47,East,Standard,Annual,Net Banking,5,899.0,0,0,1,33.0,5.0,0,10788.0
+CUST10311,46,South,Premium,Annual,Credit Card,11,1199.0,5,1,0,21.7,3.6,0,13668.599999999999
+CUST10312,23,North,Basic,Quarterly,UPI,15,599.0,10,3,1,33.1,4.2,0,6469.2
+CUST10313,52,South,Premium,Monthly,Net Banking,8,1249.0,0,2,1,17.0,4.1,0,14988.0
+CUST10314,58,North,Basic,Monthly,Net Banking,19,549.0,0,1,3,19.6,3.8,0,6588.0
+CUST10315,54,East,Premium,Annual,Net Banking,23,1199.0,15,3,1,20.5,3.1,0,12229.8
+CUST10316,41,East,Standard,Monthly,Net Banking,27,799.0,0,3,1,17.8,3.0,0,9588.0
+CUST10317,46,West,Premium,Quarterly,UPI,40,1199.0,10,0,0,22.5,1.7,0,12949.2
+CUST10318,48,North,Basic,Quarterly,Credit Card,32,499.0,5,2,0,29.2,3.6,0,5688.599999999999
+CUST10319,52,South,Premium,Quarterly,Net Banking,26,1199.0,5,1,0,27.2,3.8,0,13668.599999999999
+CUST10320,50,West,Standard,Annual,UPI,27,899.0,0,2,2,17.1,3.5,0,10788.0
+CUST10321,38,West,Basic,Monthly,Credit Card,19,499.0,15,0,2,16.4,3.6,0,5089.8
+CUST10322,49,West,Premium,Monthly,Net Banking,42,1199.0,5,3,0,15.2,2.4,0,13668.599999999999
+CUST10323,40,South,Basic,Monthly,Credit Card,29,499.0,5,2,0,22.7,3.2,0,5688.599999999999
+CUST10324,50,West,Premium,Monthly,Credit Card,39,1199.0,10,4,0,9.4,2.9,0,12949.2
+CUST10325,20,South,Basic,Monthly,UPI,41,599.0,10,1,0,14.9,4.1,0,6469.2
+CUST10326,35,West,Standard,Monthly,Credit Card,33,799.0,20,4,0,18.3,3.5,0,7670.400000000001
+CUST10327,42,South,Standard,Annual,UPI,19,799.0,5,1,0,30.4,2.9,0,9108.6
+CUST10328,59,East,Basic,Annual,Net Banking,37,599.0,5,1,0,20.9,3.4,0,6828.599999999999
+CUST10329,48,East,Basic,Monthly,Credit Card,19,599.0,20,0,1,30.0,2.6,0,5750.400000000001
+CUST10330,20,East,Basic,Monthly,Credit Card,33,499.0,10,4,1,23.5,3.2,0,5389.2
+CUST10331,57,East,Standard,Annual,Debit Card,47,849.0,0,4,1,18.2,4.0,0,10188.0
+CUST10332,41,East,Basic,Monthly,Net Banking,16,549.0,0,2,0,18.5,2.3,0,6588.0
+CUST10333,49,West,Standard,Monthly,Net Banking,23,849.0,15,2,0,12.7,3.4,0,8659.8
+CUST10334,39,West,Basic,Monthly,Debit Card,7,499.0,5,2,0,41.2,2.8,0,5688.599999999999
+CUST10335,40,West,Basic,Quarterly,Debit Card,26,599.0,10,2,0,30.9,2.3,0,6469.2
+CUST10336,19,South,Standard,Monthly,UPI,32,799.0,5,4,1,26.8,5.0,0,9108.6
+CUST10337,44,South,Basic,Annual,UPI,12,499.0,0,0,1,11.6,4.6,0,5988.0
+CUST10338,59,South,Premium,Monthly,Credit Card,8,1199.0,10,4,0,18.4,3.0,0,12949.2
+CUST10339,19,South,Premium,Monthly,Credit Card,5,1199.0,0,1,1,14.2,3.2,1,14388.0
+CUST10340,43,East,Standard,Monthly,Credit Card,42,899.0,5,1,2,23.0,1.7,0,10248.6
+CUST10341,34,East,Standard,Monthly,Credit Card,28,849.0,5,2,0,14.6,2.1,0,9678.6
+CUST10342,57,East,Premium,Quarterly,UPI,5,1199.0,5,3,0,16.6,2.5,0,13668.599999999999
+CUST10343,50,North,Basic,Quarterly,Net Banking,26,499.0,10,2,0,14.8,3.5,0,5389.2
+CUST10344,26,West,Basic,Quarterly,Credit Card,5,499.0,15,7,0,20.1,3.4,0,5089.8
+CUST10345,60,South,Basic,Quarterly,Net Banking,22,599.0,10,5,0,22.6,3.8,0,6469.2
+CUST10346,56,South,Standard,Annual,Credit Card,15,849.0,0,2,0,20.3,4.1,0,10188.0
+CUST10347,46,East,Basic,Annual,Debit Card,13,549.0,0,3,1,34.3,3.8,0,6588.0
+CUST10348,59,South,Standard,Quarterly,Credit Card,28,849.0,5,2,0,28.5,2.5,0,9678.6
+CUST10349,43,South,Premium,Monthly,Credit Card,33,1249.0,15,2,4,15.7,3.8,0,12739.8
+CUST10350,52,West,Premium,Monthly,Credit Card,43,1249.0,15,2,0,24.6,4.1,0,12739.8
+CUST10351,42,East,Standard,Monthly,UPI,23,799.0,15,2,1,16.4,3.1,0,8149.8
+CUST10352,41,West,Basic,Quarterly,Debit Card,33,599.0,0,2,2,18.8,1.8,0,7188.0
+CUST10353,30,North,Premium,Monthly,Credit Card,43,1249.0,5,1,0,25.8,4.6,0,14238.599999999999
+CUST10354,24,North,Standard,Monthly,Credit Card,18,849.0,5,0,0,27.3,3.6,0,9678.6
+CUST10355,53,North,Basic,Annual,Net Banking,30,599.0,0,5,0,17.3,1.0,0,7188.0
+CUST10356,37,East,Basic,Annual,Debit Card,26,549.0,0,5,1,13.2,5.0,0,6588.0
+CUST10357,18,South,Premium,Annual,Credit Card,16,1249.0,20,1,1,22.7,3.1,0,11990.400000000001
+CUST10358,25,East,Standard,Monthly,Net Banking,13,899.0,0,2,2,25.5,5.0,0,10788.0
+CUST10359,33,East,Premium,Quarterly,Net Banking,39,1199.0,0,0,0,16.9,3.8,0,14388.0
+CUST10360,31,South,Premium,Monthly,UPI,33,1199.0,0,1,2,28.5,3.3,0,14388.0
+CUST10361,29,West,Standard,Monthly,Net Banking,26,849.0,15,2,0,27.1,3.7,0,8659.8
+CUST10362,40,North,Standard,Monthly,Credit Card,48,799.0,5,0,1,16.8,2.9,0,9108.6
+CUST10363,32,West,Standard,Monthly,UPI,1,849.0,10,2,0,31.0,3.6,0,9169.2
+CUST10364,45,North,Basic,Monthly,UPI,38,549.0,15,4,0,31.3,5.0,0,5599.8
+CUST10365,51,East,Standard,Annual,Credit Card,2,849.0,5,3,2,38.5,2.7,0,9678.6
+CUST10366,19,North,Standard,Monthly,Debit Card,6,899.0,10,3,0,35.7,4.0,0,9709.2
+CUST10367,49,East,Standard,Quarterly,Net Banking,46,799.0,0,5,3,14.8,2.9,0,9588.0
+CUST10368,40,West,Premium,Monthly,UPI,38,1249.0,0,3,0,29.4,3.3,0,14988.0
+CUST10369,39,East,Standard,Monthly,Debit Card,42,849.0,15,6,0,29.0,5.0,0,8659.8
+CUST10370,42,West,Standard,Monthly,Credit Card,24,799.0,10,1,1,19.2,4.0,0,8629.2
+CUST10371,39,South,Standard,Monthly,Net Banking,18,799.0,5,4,0,25.6,4.2,0,9108.6
+CUST10372,39,South,Standard,Quarterly,Net Banking,27,899.0,5,0,0,7.0,3.6,0,10248.6
+CUST10373,59,South,Standard,Monthly,UPI,41,849.0,5,2,0,6.8,5.0,0,9678.6
+CUST10374,23,East,Basic,Monthly,Net Banking,8,549.0,0,4,1,8.3,2.6,0,6588.0
+CUST10375,32,South,Standard,Monthly,Net Banking,28,799.0,0,2,2,25.1,2.1,0,9588.0
+CUST10376,60,North,Basic,Monthly,Net Banking,10,499.0,0,3,3,25.5,5.0,0,5988.0
+CUST10377,54,West,Standard,Annual,Net Banking,17,799.0,0,0,0,19.8,3.2,0,9588.0
+CUST10378,50,West,Standard,Monthly,Credit Card,29,799.0,15,0,0,35.8,3.9,0,8149.8
+CUST10379,25,North,Standard,Quarterly,Debit Card,6,899.0,0,2,2,29.9,5.0,0,10788.0
+CUST10380,22,East,Premium,Quarterly,Credit Card,14,1199.0,0,5,0,9.2,3.9,0,14388.0
+CUST10381,56,East,Standard,Annual,Credit Card,22,899.0,5,1,0,20.6,5.0,0,10248.6
+CUST10382,21,West,Standard,Annual,UPI,6,899.0,15,1,1,14.5,3.6,0,9169.8
+CUST10383,23,South,Standard,Quarterly,Net Banking,26,899.0,0,2,1,25.3,2.9,0,10788.0
+CUST10384,49,East,Standard,Quarterly,Credit Card,39,799.0,0,2,0,21.8,1.4,0,9588.0
+CUST10385,47,East,Basic,Annual,Net Banking,12,599.0,5,1,0,14.9,3.8,0,6828.599999999999
+CUST10386,52,North,Basic,Monthly,Credit Card,35,499.0,10,0,0,35.6,1.5,0,5389.2
+CUST10387,57,North,Basic,Monthly,Credit Card,14,499.0,5,3,0,22.5,3.8,0,5688.599999999999
+CUST10388,33,South,Standard,Monthly,UPI,22,799.0,15,1,0,18.7,4.8,0,8149.8
+CUST10389,30,East,Basic,Annual,Debit Card,23,599.0,20,1,0,20.0,3.5,0,5750.400000000001
+CUST10390,59,East,Basic,Annual,Debit Card,48,499.0,10,1,0,34.9,3.7,0,5389.2
+CUST10391,47,North,Basic,Monthly,Credit Card,7,499.0,10,2,0,29.3,4.3,0,5389.2
+CUST10392,36,East,Premium,Quarterly,UPI,40,1199.0,5,2,1,20.7,4.1,0,13668.599999999999
+CUST10393,34,West,Basic,Monthly,Net Banking,25,499.0,0,2,1,14.1,4.5,1,5988.0
+CUST10394,36,North,Standard,Monthly,Net Banking,13,799.0,20,0,2,15.3,3.5,0,7670.400000000001
+CUST10395,45,South,Basic,Annual,Credit Card,21,599.0,5,3,3,18.1,1.5,0,6828.599999999999
+CUST10396,43,North,Standard,Monthly,Debit Card,41,849.0,0,4,0,26.1,4.6,1,10188.0
+CUST10397,54,East,Basic,Monthly,UPI,10,599.0,10,1,0,28.1,3.3,0,6469.2
+CUST10398,43,South,Basic,Quarterly,Debit Card,9,549.0,0,5,1,16.2,2.7,0,6588.0
+CUST10399,40,North,Standard,Quarterly,Net Banking,15,899.0,5,2,0,28.4,3.8,0,10248.6
+CUST10400,26,West,Basic,Monthly,Debit Card,2,499.0,5,1,1,14.7,3.7,0,5688.599999999999
+CUST10401,29,West,Basic,Quarterly,Net Banking,25,549.0,5,3,0,17.1,2.8,0,6258.599999999999
+CUST10402,18,North,Basic,Monthly,UPI,13,549.0,15,2,2,10.4,2.3,1,5599.8
+CUST10403,18,West,Basic,Monthly,UPI,34,499.0,0,1,1,10.2,3.9,0,5988.0
+CUST10404,51,West,Basic,Monthly,Credit Card,34,549.0,5,2,2,14.6,2.7,0,6258.599999999999
+CUST10405,49,West,Basic,Quarterly,Credit Card,35,549.0,5,1,0,21.8,3.6,0,6258.599999999999
+CUST10406,42,South,Premium,Monthly,Debit Card,38,1249.0,10,4,0,14.0,3.8,0,13489.2
+CUST10407,57,West,Standard,Annual,UPI,3,849.0,10,3,0,34.0,4.4,1,9169.2
+CUST10408,18,West,Standard,Annual,UPI,42,799.0,5,3,1,14.5,5.0,0,9108.6
+CUST10409,33,West,Basic,Annual,Credit Card,6,549.0,10,5,1,23.5,3.7,0,5929.2
+CUST10410,56,South,Premium,Monthly,Net Banking,48,1199.0,0,1,0,32.6,3.1,0,14388.0
+CUST10411,22,North,Standard,Annual,Debit Card,19,849.0,15,3,0,22.7,5.0,0,8659.8
+CUST10412,39,East,Basic,Monthly,Debit Card,3,549.0,5,3,2,19.1,4.4,0,6258.599999999999
+CUST10413,46,West,Standard,Monthly,Credit Card,18,899.0,10,5,0,23.2,3.7,0,9709.2
+CUST10414,20,North,Basic,Monthly,UPI,39,499.0,0,2,1,17.5,3.7,0,5988.0
+CUST10415,29,West,Basic,Monthly,Credit Card,9,499.0,0,0,1,14.0,3.5,0,5988.0
+CUST10416,43,South,Standard,Quarterly,Credit Card,12,799.0,5,2,1,26.9,3.6,0,9108.6
+CUST10417,33,North,Premium,Monthly,Credit Card,5,1199.0,15,4,2,17.3,3.4,1,12229.8
+CUST10418,54,South,Standard,Monthly,Credit Card,3,849.0,5,1,1,29.5,2.6,1,9678.6
+CUST10419,39,West,Standard,Quarterly,Net Banking,11,849.0,15,4,0,28.4,3.5,0,8659.8
+CUST10420,46,West,Premium,Monthly,Net Banking,30,1249.0,5,2,0,23.3,5.0,0,14238.599999999999
+CUST10421,31,South,Basic,Quarterly,UPI,4,599.0,5,1,1,29.8,2.8,0,6828.599999999999
+CUST10422,45,East,Basic,Monthly,Credit Card,5,499.0,0,2,0,17.6,3.3,0,5988.0
+CUST10423,22,South,Standard,Annual,Net Banking,1,799.0,15,2,0,28.3,2.7,0,8149.8
+CUST10424,47,West,Standard,Annual,UPI,27,799.0,0,2,0,28.2,4.5,0,9588.0
+CUST10425,22,South,Standard,Monthly,Credit Card,28,899.0,15,3,2,19.6,4.2,0,9169.8
+CUST10426,29,East,Premium,Monthly,Debit Card,29,1249.0,15,4,0,18.6,2.3,0,12739.8
+CUST10427,33,South,Standard,Monthly,Net Banking,18,849.0,20,2,1,24.6,1.7,1,8150.400000000001
+CUST10428,43,East,Standard,Annual,UPI,12,799.0,5,0,1,37.7,4.3,0,9108.6
+CUST10429,43,East,Basic,Monthly,Debit Card,13,499.0,10,2,0,20.1,2.3,0,5389.2
+CUST10430,38,South,Premium,Monthly,Credit Card,41,1299.0,10,2,0,18.4,4.2,0,14029.2
+CUST10431,56,South,Premium,Monthly,Credit Card,2,1199.0,0,1,0,31.4,2.9,0,14388.0
+CUST10432,53,North,Premium,Monthly,Credit Card,37,1249.0,10,1,1,22.5,4.1,0,13489.2
+CUST10433,50,West,Basic,Monthly,Net Banking,45,499.0,0,1,0,28.9,3.9,0,5988.0
+CUST10434,47,East,Standard,Annual,UPI,16,799.0,5,1,1,33.8,3.0,0,9108.6
+CUST10435,54,North,Basic,Monthly,Debit Card,48,549.0,0,2,0,6.7,2.7,0,6588.0
+CUST10436,40,South,Basic,Monthly,UPI,24,499.0,0,1,2,21.7,4.0,0,5988.0
+CUST10437,27,West,Basic,Annual,Net Banking,35,549.0,5,2,0,20.2,2.9,0,6258.599999999999
+CUST10438,22,North,Standard,Annual,UPI,22,849.0,5,4,0,14.3,4.5,0,9678.6
+CUST10439,53,East,Standard,Monthly,Net Banking,36,799.0,10,4,1,6.7,2.8,0,8629.2
+CUST10440,51,North,Basic,Monthly,Credit Card,11,549.0,0,2,0,9.3,3.8,1,6588.0
+CUST10441,48,East,Standard,Monthly,Debit Card,46,849.0,5,2,1,22.8,3.1,0,9678.6
+CUST10442,27,South,Standard,Annual,Credit Card,29,799.0,0,2,0,17.7,3.5,0,9588.0
+CUST10443,36,West,Basic,Monthly,UPI,35,549.0,5,0,1,15.6,2.9,0,6258.599999999999
+CUST10444,49,West,Basic,Annual,Credit Card,48,549.0,10,1,0,22.8,3.3,0,5929.2
+CUST10445,18,West,Standard,Quarterly,Debit Card,15,799.0,5,0,1,16.5,1.2,0,9108.6
+CUST10446,22,South,Standard,Monthly,Credit Card,31,899.0,10,1,0,32.3,2.8,0,9709.2
+CUST10447,21,East,Basic,Monthly,Debit Card,42,499.0,5,1,2,17.0,3.0,0,5688.599999999999
+CUST10448,33,South,Basic,Monthly,Debit Card,41,599.0,10,3,1,34.0,3.4,0,6469.2
+CUST10449,41,West,Basic,Monthly,Credit Card,43,599.0,5,2,2,21.8,4.7,0,6828.599999999999
+CUST10450,33,South,Premium,Monthly,Net Banking,16,1199.0,5,2,0,16.8,2.9,0,13668.599999999999
+CUST10451,19,South,Standard,Quarterly,UPI,10,799.0,10,3,0,16.2,4.8,0,8629.2
+CUST10452,45,South,Standard,Annual,Net Banking,32,799.0,0,1,0,34.1,2.7,0,9588.0
+CUST10453,49,East,Basic,Quarterly,Net Banking,2,499.0,10,6,0,27.6,2.5,0,5389.2
+CUST10454,44,North,Standard,Quarterly,Credit Card,24,899.0,10,2,0,15.9,1.8,0,9709.2
+CUST10455,37,North,Basic,Monthly,UPI,23,549.0,0,4,1,23.0,4.0,0,6588.0
+CUST10456,41,South,Standard,Monthly,UPI,2,799.0,0,2,2,3.1,3.6,0,9588.0
+CUST10457,29,North,Premium,Monthly,Net Banking,38,1249.0,0,0,1,11.3,4.0,0,14988.0
+CUST10458,52,North,Standard,Quarterly,Credit Card,31,899.0,15,3,0,16.0,3.6,0,9169.8
+CUST10459,50,South,Premium,Annual,UPI,40,1249.0,10,1,1,15.8,3.5,0,13489.2
+CUST10460,50,South,Standard,Quarterly,Net Banking,26,849.0,0,1,2,31.7,3.8,0,10188.0
+CUST10461,60,West,Basic,Monthly,UPI,29,549.0,5,2,1,6.7,5.0,0,6258.599999999999
+CUST10462,54,North,Premium,Monthly,Credit Card,3,1199.0,5,1,0,10.6,3.1,0,13668.599999999999
+CUST10463,29,East,Basic,Quarterly,Credit Card,14,499.0,15,3,0,25.6,5.0,0,5089.8
+CUST10464,20,South,Standard,Monthly,Credit Card,25,849.0,0,2,1,23.8,4.3,0,10188.0
+CUST10465,18,West,Basic,Annual,UPI,48,499.0,0,4,0,19.2,3.8,0,5988.0
+CUST10466,50,East,Basic,Annual,Debit Card,1,549.0,15,0,0,38.4,4.0,0,5599.8
+CUST10467,57,North,Standard,Quarterly,UPI,3,849.0,0,2,1,26.9,1.0,0,10188.0
+CUST10468,27,West,Basic,Monthly,Debit Card,26,549.0,0,2,1,31.8,3.3,0,6588.0
+CUST10469,60,South,Standard,Monthly,Credit Card,18,799.0,20,2,0,21.6,2.9,0,7670.400000000001
+CUST10470,46,East,Standard,Monthly,Net Banking,9,799.0,10,3,0,17.7,5.0,0,8629.2
+CUST10471,30,South,Basic,Monthly,Debit Card,38,499.0,0,3,0,17.7,3.2,0,5988.0
+CUST10472,29,North,Basic,Monthly,Credit Card,23,499.0,0,0,1,29.4,3.5,0,5988.0
+CUST10473,48,East,Standard,Quarterly,Credit Card,21,799.0,0,2,0,28.2,3.5,0,9588.0
+CUST10474,19,North,Basic,Quarterly,Debit Card,1,549.0,0,2,1,20.3,2.3,0,6588.0
+CUST10475,52,North,Standard,Monthly,Net Banking,21,799.0,15,3,0,25.8,3.0,1,8149.8
+CUST10476,40,West,Standard,Monthly,Credit Card,27,799.0,5,3,0,29.7,4.2,0,9108.6
+CUST10477,34,South,Premium,Monthly,Debit Card,42,1199.0,10,1,2,17.5,1.6,0,12949.2
+CUST10478,43,East,Standard,Monthly,Net Banking,6,799.0,15,1,0,19.3,3.8,0,8149.8
+CUST10479,25,North,Standard,Annual,Net Banking,44,799.0,5,2,0,25.6,2.7,0,9108.6
+CUST10480,46,North,Standard,Monthly,Credit Card,36,799.0,0,1,0,7.7,4.7,0,9588.0
+CUST10481,43,East,Basic,Monthly,UPI,28,599.0,5,2,2,25.7,3.9,0,6828.599999999999
+CUST10482,27,North,Basic,Monthly,UPI,45,499.0,15,5,1,13.0,2.1,0,5089.8
+CUST10483,43,West,Standard,Annual,Credit Card,17,849.0,15,4,0,29.5,3.1,0,8659.8
+CUST10484,51,West,Standard,Quarterly,Net Banking,40,899.0,0,3,0,39.2,3.9,0,10788.0
+CUST10485,58,West,Standard,Monthly,Credit Card,3,799.0,10,4,0,16.4,3.2,0,8629.2
+CUST10486,24,West,Premium,Monthly,Debit Card,12,1299.0,5,0,1,11.2,3.6,0,14808.599999999999
+CUST10487,21,North,Premium,Quarterly,UPI,39,1199.0,15,0,0,20.6,3.5,0,12229.8
+CUST10488,28,East,Premium,Annual,Debit Card,12,1199.0,0,0,4,19.9,4.3,0,14388.0
+CUST10489,46,East,Standard,Monthly,Credit Card,2,799.0,5,1,3,27.3,3.9,0,9108.6
+CUST10490,53,East,Basic,Annual,Credit Card,46,499.0,15,2,0,23.9,3.5,0,5089.8
+CUST10491,42,East,Standard,Annual,Net Banking,22,799.0,5,1,1,19.6,3.5,0,9108.6
+CUST10492,38,South,Basic,Annual,Net Banking,23,499.0,5,1,0,22.7,2.5,0,5688.599999999999
+CUST10493,53,East,Standard,Quarterly,Net Banking,30,849.0,0,0,0,13.0,4.8,0,10188.0
+CUST10494,27,South,Standard,Quarterly,Debit Card,5,899.0,0,3,1,28.6,5.0,0,10788.0
+CUST10495,54,South,Standard,Monthly,Net Banking,9,799.0,5,3,1,34.9,3.2,0,9108.6
+CUST10496,26,West,Basic,Quarterly,Credit Card,21,499.0,20,2,1,12.4,3.5,0,4790.400000000001
+CUST10497,41,South,Basic,Monthly,Net Banking,11,499.0,0,2,2,9.4,4.4,0,5988.0
+CUST10498,52,North,Standard,Quarterly,UPI,5,799.0,5,1,0,18.8,4.4,0,9108.6
+CUST10499,52,South,Basic,Monthly,Net Banking,35,549.0,10,0,3,12.2,3.7,0,5929.2
+CUST10500,53,West,Premium,Quarterly,Debit Card,27,1199.0,0,1,1,11.8,2.6,0,14388.0
+CUST10501,35,South,Basic,Annual,UPI,2,499.0,5,0,1,10.8,5.0,0,5688.599999999999
+CUST10502,56,North,Basic,Monthly,UPI,24,549.0,10,4,0,20.5,4.1,0,5929.2
+CUST10503,49,North,Basic,Annual,UPI,31,599.0,15,2,1,18.7,3.7,0,6109.8
+CUST10504,41,North,Standard,Monthly,Debit Card,33,799.0,10,1,1,25.0,2.8,0,8629.2
+CUST10505,40,West,Standard,Annual,Credit Card,39,849.0,10,5,0,17.5,3.6,0,9169.2
+CUST10506,49,West,Basic,Monthly,Net Banking,30,499.0,0,1,1,12.3,1.9,0,5988.0
+CUST10507,54,East,Basic,Monthly,UPI,46,499.0,20,2,0,21.9,4.2,0,4790.400000000001
+CUST10508,29,West,Standard,Annual,UPI,37,799.0,0,3,1,13.5,4.4,0,9588.0
+CUST10509,30,North,Basic,Monthly,UPI,28,499.0,10,1,1,26.1,3.7,0,5389.2
+CUST10510,40,North,Standard,Annual,Credit Card,31,899.0,0,1,0,8.7,2.6,1,10788.0
+CUST10511,42,West,Standard,Monthly,Credit Card,11,799.0,15,2,1,4.7,3.9,0,8149.8
+CUST10512,52,South,Basic,Monthly,Debit Card,23,499.0,10,1,1,9.1,4.2,0,5389.2
+CUST10513,58,West,Basic,Monthly,Credit Card,2,499.0,10,1,1,18.7,2.8,0,5389.2
+CUST10514,47,West,Premium,Quarterly,Net Banking,40,1199.0,0,2,0,19.7,4.3,0,14388.0
+CUST10515,34,North,Standard,Monthly,Debit Card,41,849.0,5,0,0,23.1,4.0,1,9678.6
+CUST10516,37,East,Standard,Monthly,Debit Card,27,799.0,10,3,1,17.5,3.3,0,8629.2
+CUST10517,42,North,Basic,Monthly,Net Banking,35,499.0,10,1,0,15.2,3.0,0,5389.2
+CUST10518,39,East,Standard,Monthly,Net Banking,2,849.0,0,1,0,33.5,3.3,0,10188.0
+CUST10519,30,North,Basic,Annual,Net Banking,39,499.0,20,1,0,31.4,2.6,0,4790.400000000001
+CUST10520,36,West,Standard,Annual,Debit Card,37,799.0,15,3,0,29.9,3.7,0,8149.8
+CUST10521,53,North,Premium,Monthly,Debit Card,21,1199.0,0,3,1,24.5,4.0,0,14388.0
+CUST10522,29,North,Standard,Quarterly,Debit Card,5,799.0,15,1,2,25.1,4.6,0,8149.8
+CUST10523,58,North,Basic,Monthly,Net Banking,45,499.0,5,2,1,15.6,3.8,0,5688.599999999999
+CUST10524,36,West,Basic,Quarterly,Net Banking,21,499.0,5,2,2,23.2,3.9,0,5688.599999999999
+CUST10525,29,West,Standard,Annual,UPI,29,849.0,0,2,1,14.5,3.3,0,10188.0
+CUST10526,26,West,Basic,Annual,Credit Card,20,549.0,5,1,0,13.6,2.7,0,6258.599999999999
+CUST10527,24,West,Basic,Monthly,UPI,38,549.0,10,2,1,9.1,3.1,0,5929.2
+CUST10528,45,East,Standard,Quarterly,Net Banking,20,899.0,5,2,0,25.2,4.8,0,10248.6
+CUST10529,31,East,Standard,Monthly,Debit Card,25,799.0,10,0,0,23.3,4.1,0,8629.2
+CUST10530,48,South,Basic,Annual,Net Banking,2,599.0,10,3,1,19.6,3.9,0,6469.2
+CUST10531,36,West,Premium,Monthly,Credit Card,32,1199.0,10,1,1,18.5,1.9,0,12949.2
+CUST10532,33,East,Basic,Quarterly,UPI,26,499.0,0,4,0,7.4,3.8,0,5988.0
+CUST10533,22,North,Premium,Quarterly,UPI,6,1199.0,15,3,1,24.1,2.3,0,12229.8
+CUST10534,52,West,Basic,Quarterly,Debit Card,41,499.0,5,4,1,19.5,2.4,0,5688.599999999999
+CUST10535,29,South,Premium,Monthly,UPI,3,1299.0,0,3,0,29.2,2.5,0,15588.0
+CUST10536,42,South,Standard,Annual,UPI,33,799.0,0,0,0,23.2,2.8,0,9588.0
+CUST10537,38,South,Premium,Monthly,Net Banking,1,1199.0,5,2,2,27.6,4.3,0,13668.599999999999
+CUST10538,53,North,Premium,Quarterly,UPI,5,1199.0,15,2,0,21.9,3.7,0,12229.8
+CUST10539,40,East,Basic,Monthly,UPI,13,499.0,5,1,1,23.5,2.7,0,5688.599999999999
+CUST10540,33,North,Premium,Monthly,UPI,19,1199.0,10,1,3,29.4,3.0,0,12949.2
+CUST10541,56,West,Standard,Monthly,Debit Card,12,799.0,0,1,1,20.5,3.9,0,9588.0
+CUST10542,59,South,Standard,Monthly,Debit Card,48,799.0,5,4,1,25.8,4.1,0,9108.6
+CUST10543,56,North,Basic,Monthly,Net Banking,25,599.0,20,1,0,18.5,3.6,0,5750.400000000001
+CUST10544,31,North,Standard,Monthly,UPI,35,799.0,10,2,0,21.0,2.5,0,8629.2
+CUST10545,48,East,Basic,Monthly,Debit Card,12,499.0,0,0,0,34.7,3.1,0,5988.0
+CUST10546,22,East,Standard,Quarterly,Debit Card,30,849.0,5,1,0,27.1,5.0,0,9678.6
+CUST10547,52,South,Standard,Annual,Net Banking,5,899.0,0,4,1,17.7,2.4,0,10788.0
+CUST10548,40,North,Standard,Monthly,Credit Card,34,799.0,5,0,2,25.4,3.8,0,9108.6
+CUST10549,46,North,Premium,Monthly,UPI,22,1199.0,10,2,1,11.8,5.0,0,12949.2
+CUST10550,60,East,Standard,Monthly,Debit Card,39,899.0,10,0,1,20.2,3.3,0,9709.2
+CUST10551,28,North,Basic,Monthly,Net Banking,13,499.0,0,3,0,14.4,5.0,0,5988.0
+CUST10552,35,North,Basic,Quarterly,Net Banking,47,499.0,15,2,0,25.6,2.9,0,5089.8
+CUST10553,29,North,Basic,Quarterly,Net Banking,3,499.0,5,2,0,20.5,1.7,0,5688.599999999999
+CUST10554,26,East,Basic,Monthly,Debit Card,20,599.0,5,2,0,24.3,3.0,0,6828.599999999999
+CUST10555,27,South,Basic,Monthly,UPI,31,599.0,5,1,0,28.2,2.8,0,6828.599999999999
+CUST10556,34,West,Basic,Monthly,Credit Card,5,549.0,10,2,2,18.3,2.0,1,5929.2
+CUST10557,55,South,Premium,Annual,UPI,24,1199.0,5,2,0,18.6,3.1,0,13668.599999999999
+CUST10558,24,West,Standard,Annual,Net Banking,40,799.0,5,3,1,21.7,4.4,0,9108.6
+CUST10559,30,North,Basic,Monthly,Net Banking,33,499.0,5,3,1,15.1,3.0,0,5688.599999999999
+CUST10560,57,South,Standard,Monthly,Credit Card,8,899.0,0,1,1,21.9,3.2,0,10788.0
+CUST10561,59,West,Basic,Annual,UPI,24,599.0,15,3,1,22.3,4.7,0,6109.8
+CUST10562,26,East,Standard,Annual,Net Banking,20,799.0,5,3,0,23.8,2.8,0,9108.6
+CUST10563,44,East,Standard,Monthly,Net Banking,16,849.0,0,4,0,25.4,4.1,0,10188.0
+CUST10564,19,South,Standard,Monthly,UPI,12,799.0,10,0,1,9.2,2.0,0,8629.2
+CUST10565,22,South,Standard,Monthly,Net Banking,13,799.0,15,1,0,11.7,2.6,0,8149.8
+CUST10566,46,North,Premium,Quarterly,UPI,45,1249.0,20,0,1,12.7,3.3,0,11990.400000000001
+CUST10567,54,South,Premium,Monthly,Net Banking,42,1199.0,5,1,0,22.7,4.6,0,13668.599999999999
+CUST10568,55,North,Standard,Monthly,UPI,39,799.0,0,0,1,19.7,2.7,0,9588.0
+CUST10569,36,North,Standard,Quarterly,Credit Card,25,799.0,5,2,1,3.9,2.7,0,9108.6
+CUST10570,25,East,Standard,Monthly,Net Banking,46,849.0,0,5,0,37.6,3.7,0,10188.0
+CUST10571,18,East,Basic,Quarterly,Credit Card,32,599.0,15,0,1,6.1,3.9,0,6109.8
+CUST10572,39,West,Standard,Monthly,Net Banking,24,899.0,0,6,0,22.2,2.6,0,10788.0
+CUST10573,34,East,Basic,Monthly,Net Banking,48,549.0,0,0,0,26.5,3.0,0,6588.0
+CUST10574,24,East,Standard,Quarterly,Debit Card,47,799.0,5,4,0,16.2,4.5,0,9108.6
+CUST10575,42,South,Standard,Monthly,UPI,44,799.0,5,2,0,27.1,2.4,0,9108.6
+CUST10576,21,East,Basic,Annual,Credit Card,9,599.0,10,3,2,13.9,3.8,0,6469.2
+CUST10577,53,West,Premium,Monthly,Credit Card,40,1249.0,5,1,0,23.4,3.0,0,14238.599999999999
+CUST10578,23,South,Premium,Monthly,Credit Card,23,1249.0,0,4,1,4.6,4.8,0,14988.0
+CUST10579,48,West,Standard,Quarterly,UPI,13,849.0,0,2,1,31.4,4.0,0,10188.0
+CUST10580,36,East,Standard,Monthly,Debit Card,32,849.0,5,1,0,22.0,4.3,0,9678.6
+CUST10581,56,West,Premium,Annual,Credit Card,15,1199.0,0,0,0,9.2,3.0,0,14388.0
+CUST10582,44,South,Basic,Monthly,UPI,36,499.0,10,3,2,27.0,4.2,0,5389.2
+CUST10583,27,North,Standard,Monthly,Net Banking,5,849.0,5,4,0,35.1,4.2,0,9678.6
+CUST10584,43,West,Basic,Monthly,Credit Card,22,599.0,10,2,0,14.6,4.0,0,6469.2
+CUST10585,36,West,Standard,Monthly,Credit Card,16,849.0,15,4,1,20.3,3.2,0,8659.8
+CUST10586,56,South,Basic,Annual,Debit Card,41,499.0,15,3,0,17.9,3.6,0,5089.8
+CUST10587,20,South,Premium,Annual,Credit Card,10,1199.0,20,2,1,15.8,1.8,0,11510.400000000001
+CUST10588,30,West,Premium,Monthly,Credit Card,24,1249.0,0,5,0,15.0,5.0,0,14988.0
+CUST10589,45,East,Basic,Monthly,Net Banking,18,549.0,0,1,0,16.8,3.0,0,6588.0
+CUST10590,37,West,Standard,Annual,UPI,18,849.0,0,2,0,17.3,3.2,0,10188.0
+CUST10591,45,South,Premium,Annual,UPI,7,1199.0,15,2,0,19.1,2.3,0,12229.8
+CUST10592,25,North,Standard,Monthly,Debit Card,4,899.0,20,1,2,18.6,4.1,0,8630.4
+CUST10593,58,North,Premium,Monthly,Net Banking,26,1249.0,15,0,0,28.1,4.0,0,12739.8
+CUST10594,56,East,Standard,Monthly,UPI,5,849.0,0,3,1,27.4,3.2,0,10188.0
+CUST10595,18,West,Basic,Annual,Net Banking,16,499.0,20,3,0,9.7,1.4,0,4790.400000000001
+CUST10596,20,North,Basic,Monthly,UPI,35,499.0,5,3,1,17.3,2.9,0,5688.599999999999
+CUST10597,30,West,Basic,Monthly,Net Banking,26,599.0,0,2,0,32.0,3.9,0,7188.0
+CUST10598,45,South,Standard,Quarterly,Debit Card,18,799.0,5,3,0,24.4,3.7,0,9108.6
+CUST10599,42,North,Standard,Monthly,Credit Card,29,799.0,0,3,0,24.7,3.5,0,9588.0
+CUST10600,50,East,Standard,Monthly,Debit Card,23,799.0,5,0,0,23.9,3.1,0,9108.6
+CUST10601,55,South,Standard,Monthly,UPI,14,849.0,5,1,0,19.9,2.1,0,9678.6
+CUST10602,23,East,Standard,Monthly,Debit Card,15,799.0,5,4,0,21.7,4.4,0,9108.6
+CUST10603,49,South,Premium,Monthly,Credit Card,33,1199.0,10,1,1,18.8,2.2,0,12949.2
+CUST10604,38,North,Premium,Monthly,Debit Card,25,1299.0,15,2,0,28.8,3.3,0,13249.8
+CUST10605,33,East,Standard,Monthly,UPI,21,849.0,10,3,1,18.8,2.6,0,9169.2
+CUST10606,38,East,Premium,Quarterly,UPI,17,1199.0,5,1,0,21.1,4.4,1,13668.599999999999
+CUST10607,28,South,Standard,Annual,Debit Card,23,799.0,15,1,0,27.9,4.0,1,8149.8
+CUST10608,54,East,Standard,Quarterly,Credit Card,43,899.0,15,4,0,19.4,3.2,0,9169.8
+CUST10609,53,South,Premium,Monthly,Debit Card,17,1199.0,0,5,1,21.4,4.1,0,14388.0
+CUST10610,52,South,Basic,Monthly,Credit Card,14,549.0,5,1,0,19.1,2.2,0,6258.599999999999
+CUST10611,36,South,Basic,Monthly,Net Banking,29,499.0,0,1,0,21.3,3.4,0,5988.0
+CUST10612,37,South,Premium,Monthly,Credit Card,20,1299.0,0,5,0,19.4,2.6,1,15588.0
+CUST10613,35,North,Standard,Monthly,Net Banking,30,849.0,10,0,0,17.7,4.4,0,9169.2
+CUST10614,58,South,Premium,Quarterly,Debit Card,19,1249.0,15,2,0,16.3,3.8,0,12739.8
+CUST10615,31,West,Premium,Monthly,Credit Card,39,1199.0,0,1,2,20.6,4.1,0,14388.0
+CUST10616,32,East,Basic,Monthly,Net Banking,13,599.0,15,2,0,30.1,3.0,0,6109.8
+CUST10617,48,West,Premium,Monthly,Net Banking,18,1199.0,15,2,1,27.0,4.2,0,12229.8
+CUST10618,18,North,Standard,Quarterly,Net Banking,23,899.0,15,1,2,9.4,2.5,0,9169.8
+CUST10619,20,West,Standard,Monthly,UPI,46,799.0,0,3,0,18.6,2.6,0,9588.0
+CUST10620,33,East,Standard,Quarterly,Debit Card,33,849.0,15,3,0,16.9,3.3,0,8659.8
+CUST10621,40,West,Premium,Monthly,Net Banking,39,1199.0,5,3,1,9.5,2.7,0,13668.599999999999
+CUST10622,28,North,Basic,Annual,Credit Card,40,549.0,5,1,2,24.2,4.1,0,6258.599999999999
+CUST10623,29,South,Standard,Annual,Net Banking,18,799.0,0,0,1,21.2,3.1,0,9588.0
+CUST10624,27,West,Standard,Monthly,UPI,9,799.0,0,2,1,38.2,2.5,0,9588.0
+CUST10625,49,North,Standard,Monthly,Debit Card,33,799.0,10,1,1,19.3,2.4,0,8629.2
+CUST10626,33,North,Standard,Monthly,UPI,32,799.0,5,4,1,15.8,4.1,0,9108.6
+CUST10627,25,East,Basic,Monthly,UPI,17,499.0,0,4,1,15.0,1.2,0,5988.0
+CUST10628,55,East,Basic,Quarterly,UPI,19,499.0,0,1,1,18.4,2.6,0,5988.0
+CUST10629,29,West,Basic,Annual,Credit Card,27,599.0,10,0,0,26.7,4.8,0,6469.2
+CUST10630,41,South,Premium,Quarterly,Debit Card,6,1199.0,0,2,0,27.6,3.2,0,14388.0
+CUST10631,45,North,Basic,Annual,Debit Card,35,549.0,15,2,0,45.4,4.1,0,5599.8
+CUST10632,25,West,Basic,Monthly,Credit Card,37,499.0,0,4,1,12.3,3.9,0,5988.0
+CUST10633,45,North,Premium,Monthly,Debit Card,34,1249.0,0,1,1,22.7,3.3,0,14988.0
+CUST10634,53,North,Basic,Quarterly,UPI,20,499.0,5,1,0,16.5,2.0,0,5688.599999999999
+CUST10635,43,South,Premium,Monthly,Debit Card,25,1299.0,5,2,0,24.8,2.3,0,14808.599999999999
+CUST10636,25,South,Standard,Quarterly,Credit Card,4,849.0,5,6,0,33.1,2.3,0,9678.6
+CUST10637,45,West,Premium,Monthly,UPI,10,1199.0,5,1,1,28.9,3.9,0,13668.599999999999
+CUST10638,45,South,Basic,Monthly,Credit Card,10,549.0,20,0,1,12.3,4.1,0,5270.400000000001
+CUST10639,54,South,Basic,Annual,Net Banking,24,499.0,10,1,0,27.5,2.7,0,5389.2
+CUST10640,58,West,Standard,Monthly,UPI,21,849.0,0,1,1,5.1,3.4,0,10188.0
+CUST10641,53,South,Premium,Annual,UPI,11,1199.0,5,0,0,3.0,3.5,0,13668.599999999999
+CUST10642,44,East,Standard,Annual,Debit Card,27,799.0,15,1,2,20.0,3.6,0,8149.8
+CUST10643,34,North,Basic,Quarterly,UPI,16,499.0,0,1,0,26.9,2.8,0,5988.0
+CUST10644,26,North,Standard,Quarterly,Credit Card,26,849.0,0,4,0,24.8,5.0,0,10188.0
+CUST10645,50,North,Standard,Quarterly,Debit Card,30,799.0,10,6,0,37.2,4.1,0,8629.2
+CUST10646,37,North,Standard,Annual,Net Banking,16,849.0,10,1,2,22.9,3.6,0,9169.2
+CUST10647,30,West,Standard,Monthly,Credit Card,7,799.0,5,1,1,21.1,3.0,1,9108.6
+CUST10648,45,North,Premium,Monthly,Net Banking,16,1199.0,0,1,0,31.2,2.7,0,14388.0
+CUST10649,46,North,Standard,Quarterly,Net Banking,35,849.0,0,2,3,19.0,3.9,0,10188.0
+CUST10650,30,North,Basic,Monthly,Net Banking,16,549.0,10,0,1,25.1,3.1,1,5929.2
+CUST10651,52,North,Standard,Monthly,UPI,40,899.0,0,5,2,25.6,3.6,0,10788.0
+CUST10652,23,East,Basic,Monthly,Credit Card,12,549.0,5,2,1,14.2,1.8,0,6258.599999999999
+CUST10653,35,North,Standard,Quarterly,Credit Card,35,849.0,5,2,0,25.1,3.0,0,9678.6
+CUST10654,22,East,Standard,Annual,UPI,21,849.0,0,1,1,39.5,3.4,0,10188.0
+CUST10655,42,West,Basic,Monthly,Debit Card,43,499.0,20,1,1,31.1,4.4,0,4790.400000000001
+CUST10656,19,South,Basic,Annual,Net Banking,36,499.0,15,1,1,15.3,2.7,0,5089.8
+CUST10657,27,North,Basic,Quarterly,Credit Card,48,499.0,10,6,0,40.7,2.2,0,5389.2
+CUST10658,47,South,Premium,Annual,UPI,17,1199.0,0,2,0,27.5,3.9,0,14388.0
+CUST10659,22,South,Premium,Quarterly,Net Banking,32,1199.0,0,1,3,25.4,3.4,0,14388.0
+CUST10660,50,West,Basic,Quarterly,Debit Card,41,599.0,5,0,0,21.2,2.0,0,6828.599999999999
+CUST10661,18,South,Premium,Monthly,Debit Card,6,1199.0,0,4,0,27.5,2.0,0,14388.0
+CUST10662,35,East,Standard,Annual,Net Banking,24,849.0,20,0,1,22.9,2.9,0,8150.400000000001
+CUST10663,49,South,Basic,Monthly,Debit Card,27,549.0,0,4,2,22.2,3.4,0,6588.0
+CUST10664,28,South,Basic,Annual,Credit Card,20,499.0,5,1,0,20.9,4.8,0,5688.599999999999
+CUST10665,38,South,Standard,Annual,Credit Card,25,799.0,5,3,1,29.8,2.5,0,9108.6
+CUST10666,43,North,Standard,Monthly,Credit Card,2,799.0,10,2,0,28.9,4.0,0,8629.2
+CUST10667,42,North,Standard,Monthly,Debit Card,9,849.0,0,2,0,20.8,1.7,0,10188.0
+CUST10668,39,East,Basic,Quarterly,Credit Card,28,599.0,5,3,1,9.8,3.8,0,6828.599999999999
+CUST10669,44,East,Basic,Monthly,UPI,38,499.0,0,1,0,22.3,4.9,0,5988.0
+CUST10670,30,North,Standard,Annual,Credit Card,3,899.0,15,1,0,16.3,3.6,0,9169.8
+CUST10671,50,East,Basic,Monthly,Credit Card,20,499.0,0,1,0,18.2,2.9,0,5988.0
+CUST10672,51,North,Basic,Monthly,Debit Card,6,549.0,15,2,1,21.0,4.6,0,5599.8
+CUST10673,58,West,Basic,Annual,Credit Card,39,549.0,15,1,0,13.5,3.8,0,5599.8
+CUST10674,52,South,Premium,Quarterly,Net Banking,33,1199.0,0,1,4,9.1,3.6,0,14388.0
+CUST10675,18,South,Premium,Annual,UPI,1,1199.0,10,1,0,24.3,2.6,0,12949.2
+CUST10676,38,East,Standard,Monthly,Debit Card,37,799.0,0,3,0,22.2,3.8,0,9588.0
+CUST10677,23,North,Premium,Quarterly,UPI,6,1199.0,20,6,0,21.9,2.9,0,11510.400000000001
+CUST10678,45,North,Basic,Quarterly,Net Banking,45,549.0,5,2,3,26.1,3.8,0,6258.599999999999
+CUST10679,34,East,Standard,Quarterly,Debit Card,34,799.0,0,0,2,16.7,3.5,0,9588.0
+CUST10680,22,North,Basic,Quarterly,Debit Card,47,549.0,5,0,1,24.7,4.5,0,6258.599999999999
+CUST10681,48,West,Standard,Quarterly,Credit Card,15,799.0,0,3,0,32.7,3.0,0,9588.0
+CUST10682,22,South,Premium,Monthly,UPI,45,1249.0,20,3,1,20.0,3.4,0,11990.400000000001
+CUST10683,55,East,Standard,Monthly,Net Banking,26,849.0,0,4,0,37.2,4.2,0,10188.0
+CUST10684,20,East,Basic,Quarterly,Net Banking,14,549.0,10,2,0,22.4,3.3,0,5929.2
+CUST10685,40,North,Standard,Monthly,Debit Card,7,799.0,5,0,2,15.2,3.5,0,9108.6
+CUST10686,54,East,Basic,Quarterly,Credit Card,46,499.0,20,2,0,28.8,3.1,0,4790.400000000001
+CUST10687,54,West,Premium,Monthly,Debit Card,31,1249.0,0,3,0,21.1,3.4,0,14988.0
+CUST10688,27,North,Standard,Quarterly,Debit Card,24,799.0,5,2,0,30.4,4.1,0,9108.6
+CUST10689,27,North,Standard,Quarterly,Debit Card,31,799.0,5,1,0,25.3,5.0,0,9108.6
+CUST10690,36,North,Standard,Monthly,Debit Card,29,799.0,10,2,0,19.4,2.0,0,8629.2
+CUST10691,34,North,Standard,Monthly,Net Banking,42,849.0,0,2,0,34.2,2.4,0,10188.0
+CUST10692,38,West,Basic,Monthly,Net Banking,32,549.0,0,1,1,18.0,3.4,0,6588.0
+CUST10693,31,North,Standard,Quarterly,Debit Card,17,849.0,0,1,1,4.7,3.5,0,10188.0
+CUST10694,26,East,Basic,Annual,Debit Card,14,499.0,10,4,0,29.0,3.3,0,5389.2
+CUST10695,18,West,Standard,Monthly,Credit Card,40,799.0,0,2,0,24.8,3.0,0,9588.0
+CUST10696,30,South,Premium,Quarterly,Debit Card,36,1299.0,5,4,0,32.3,2.4,0,14808.599999999999
+CUST10697,21,South,Premium,Monthly,Net Banking,48,1199.0,0,1,0,14.9,3.0,0,14388.0
+CUST10698,18,East,Standard,Monthly,UPI,24,799.0,15,1,2,20.0,4.2,0,8149.8
+CUST10699,57,East,Standard,Annual,Net Banking,45,849.0,20,3,0,19.1,3.6,0,8150.400000000001
+CUST10700,49,West,Basic,Monthly,Credit Card,27,499.0,5,2,1,29.5,4.1,0,5688.599999999999
+CUST10701,51,South,Standard,Monthly,Net Banking,25,799.0,5,1,0,27.2,2.4,0,9108.6
+CUST10702,45,South,Basic,Monthly,UPI,32,499.0,0,1,1,23.7,4.8,0,5988.0
+CUST10703,48,South,Standard,Monthly,Debit Card,18,799.0,0,1,4,23.8,3.0,0,9588.0
+CUST10704,25,South,Basic,Monthly,UPI,46,499.0,0,1,1,12.8,3.9,0,5988.0
+CUST10705,56,South,Basic,Monthly,Debit Card,18,599.0,10,0,2,28.1,3.4,0,6469.2
+CUST10706,43,North,Standard,Quarterly,Debit Card,37,799.0,5,3,0,28.3,3.0,0,9108.6
+CUST10707,51,East,Basic,Monthly,Net Banking,26,499.0,20,4,0,40.3,3.9,0,4790.400000000001
+CUST10708,20,North,Standard,Monthly,Net Banking,9,849.0,5,1,0,25.8,4.0,0,9678.6
+CUST10709,29,South,Basic,Monthly,Net Banking,35,599.0,10,3,0,27.1,5.0,0,6469.2
+CUST10710,18,West,Basic,Monthly,Credit Card,8,499.0,5,0,1,25.8,4.1,0,5688.599999999999
+CUST10711,22,West,Standard,Quarterly,Net Banking,20,849.0,5,3,2,16.4,4.1,0,9678.6
+CUST10712,47,South,Basic,Annual,Credit Card,42,549.0,0,1,0,32.0,4.5,0,6588.0
+CUST10713,47,South,Basic,Monthly,Net Banking,22,499.0,5,2,1,21.6,4.0,0,5688.599999999999
+CUST10714,34,West,Standard,Annual,Debit Card,19,799.0,5,3,3,20.5,3.5,0,9108.6
+CUST10715,40,North,Basic,Quarterly,Credit Card,30,499.0,10,2,3,20.9,3.8,0,5389.2
+CUST10716,32,North,Premium,Quarterly,UPI,28,1249.0,20,1,1,21.5,4.3,0,11990.400000000001
+CUST10717,54,South,Basic,Monthly,Credit Card,35,499.0,5,1,1,18.1,4.8,0,5688.599999999999
+CUST10718,38,North,Basic,Monthly,Credit Card,43,499.0,0,2,0,23.7,2.1,0,5988.0
+CUST10719,31,West,Standard,Monthly,UPI,11,849.0,5,1,0,21.2,1.8,0,9678.6
+CUST10720,19,North,Basic,Quarterly,Credit Card,31,499.0,5,2,0,20.5,4.7,0,5688.599999999999
+CUST10721,28,South,Basic,Monthly,Debit Card,48,599.0,0,2,0,25.9,2.8,0,7188.0
+CUST10722,56,West,Basic,Annual,Net Banking,39,599.0,10,3,1,22.6,2.0,1,6469.2
+CUST10723,55,North,Basic,Monthly,UPI,36,499.0,20,5,0,17.6,1.9,0,4790.400000000001
+CUST10724,51,East,Premium,Monthly,Net Banking,30,1299.0,20,2,0,15.9,5.0,0,12470.400000000001
+CUST10725,55,West,Basic,Quarterly,Debit Card,23,499.0,0,2,1,22.8,4.3,0,5988.0
+CUST10726,51,West,Standard,Monthly,UPI,19,799.0,15,1,0,16.0,2.8,0,8149.8
+CUST10727,35,East,Premium,Monthly,Net Banking,12,1199.0,10,4,0,15.5,2.8,0,12949.2
+CUST10728,47,East,Standard,Quarterly,Net Banking,15,849.0,5,2,1,15.6,3.5,0,9678.6
+CUST10729,32,West,Premium,Annual,Debit Card,31,1249.0,5,2,0,24.0,4.3,0,14238.599999999999
+CUST10730,44,East,Basic,Quarterly,Net Banking,43,499.0,15,0,0,31.5,3.2,0,5089.8
+CUST10731,51,South,Premium,Quarterly,Debit Card,37,1199.0,5,1,1,24.8,2.8,0,13668.599999999999
+CUST10732,55,South,Basic,Quarterly,Credit Card,37,499.0,5,1,1,29.1,4.5,0,5688.599999999999
+CUST10733,50,South,Standard,Annual,Debit Card,15,899.0,5,1,0,21.4,3.5,0,10248.6
+CUST10734,41,West,Standard,Monthly,Credit Card,29,899.0,5,2,0,23.1,3.3,0,10248.6
+CUST10735,32,East,Standard,Monthly,UPI,43,849.0,0,3,0,35.2,4.0,0,10188.0
+CUST10736,47,East,Standard,Monthly,Net Banking,26,849.0,15,3,0,28.6,1.6,0,8659.8
+CUST10737,59,North,Standard,Monthly,Debit Card,44,849.0,10,4,0,29.5,3.9,0,9169.2
+CUST10738,34,North,Basic,Quarterly,Debit Card,2,499.0,10,3,0,19.9,3.9,1,5389.2
+CUST10739,22,East,Basic,Quarterly,Net Banking,20,499.0,0,1,2,22.0,2.3,0,5988.0
+CUST10740,46,East,Standard,Quarterly,Net Banking,15,849.0,10,3,3,25.2,1.8,0,9169.2
+CUST10741,21,East,Standard,Monthly,UPI,4,799.0,0,1,1,17.1,3.0,0,9588.0
+CUST10742,27,West,Premium,Quarterly,UPI,22,1199.0,0,2,1,3.1,3.7,0,14388.0
+CUST10743,34,East,Standard,Monthly,Debit Card,38,899.0,5,0,0,25.2,3.8,0,10248.6
+CUST10744,27,North,Premium,Quarterly,UPI,23,1249.0,5,1,0,29.7,5.0,0,14238.599999999999
+CUST10745,34,West,Standard,Quarterly,Credit Card,26,799.0,5,1,0,22.4,3.7,0,9108.6
+CUST10746,37,East,Basic,Monthly,UPI,11,549.0,0,4,1,17.2,2.2,0,6588.0
+CUST10747,41,North,Basic,Monthly,UPI,28,599.0,5,1,1,19.4,3.3,0,6828.599999999999
+CUST10748,22,West,Standard,Monthly,Debit Card,2,799.0,0,2,0,5.8,2.3,0,9588.0
+CUST10749,51,East,Standard,Annual,Credit Card,8,799.0,20,2,2,19.3,3.3,0,7670.400000000001
+CUST10750,23,East,Basic,Annual,UPI,29,499.0,5,1,0,13.1,4.8,0,5688.599999999999
+CUST10751,19,East,Basic,Quarterly,Credit Card,11,499.0,10,3,1,16.4,3.9,0,5389.2
+CUST10752,30,West,Premium,Monthly,Credit Card,37,1249.0,5,4,1,12.7,2.9,0,14238.599999999999
+CUST10753,60,North,Standard,Monthly,Credit Card,18,799.0,0,0,0,11.8,4.0,0,9588.0
+CUST10754,60,North,Standard,Quarterly,Net Banking,14,799.0,20,2,0,14.0,2.8,0,7670.400000000001
+CUST10755,28,South,Standard,Quarterly,Net Banking,10,799.0,0,2,0,27.1,1.0,0,9588.0
+CUST10756,40,East,Basic,Monthly,Net Banking,35,499.0,5,5,0,17.9,2.4,0,5688.599999999999
+CUST10757,33,South,Basic,Monthly,Net Banking,9,499.0,10,2,2,13.1,3.9,0,5389.2
+CUST10758,48,South,Basic,Quarterly,Debit Card,35,549.0,0,2,1,28.0,4.2,0,6588.0
+CUST10759,28,North,Basic,Monthly,UPI,11,499.0,15,4,1,23.0,5.0,0,5089.8
+CUST10760,33,West,Standard,Monthly,Net Banking,44,849.0,5,1,1,3.1,3.8,0,9678.6
+CUST10761,25,West,Standard,Monthly,Debit Card,12,849.0,0,4,2,30.0,4.7,0,10188.0
+CUST10762,21,North,Premium,Monthly,UPI,3,1199.0,0,3,0,22.6,4.1,0,14388.0
+CUST10763,57,West,Premium,Annual,Net Banking,39,1249.0,0,6,1,28.2,4.3,0,14988.0
+CUST10764,21,South,Basic,Annual,UPI,14,549.0,15,0,2,20.2,4.5,0,5599.8
+CUST10765,42,East,Standard,Quarterly,Net Banking,28,799.0,10,3,0,34.8,3.9,0,8629.2
+CUST10766,20,North,Standard,Monthly,Debit Card,11,799.0,0,1,1,18.9,4.5,0,9588.0
+CUST10767,49,East,Premium,Monthly,Credit Card,39,1249.0,0,1,0,2.0,2.9,0,14988.0
+CUST10768,20,West,Basic,Monthly,Credit Card,25,599.0,10,2,2,14.9,1.3,0,6469.2
+CUST10769,44,East,Standard,Monthly,UPI,21,799.0,5,2,0,26.0,4.1,0,9108.6
+CUST10770,46,West,Standard,Quarterly,Debit Card,10,799.0,5,1,2,23.3,3.8,0,9108.6
+CUST10771,49,West,Basic,Monthly,Credit Card,43,499.0,5,2,0,21.0,2.7,0,5688.599999999999
+CUST10772,36,South,Basic,Monthly,Net Banking,15,499.0,0,3,2,14.1,2.4,0,5988.0
+CUST10773,38,West,Standard,Monthly,Credit Card,19,849.0,10,2,1,22.1,3.6,0,9169.2
+CUST10774,22,South,Standard,Monthly,UPI,48,799.0,20,2,1,21.9,4.1,0,7670.400000000001
+CUST10775,35,South,Basic,Monthly,UPI,22,499.0,0,4,0,21.8,4.0,0,5988.0
+CUST10776,45,South,Standard,Monthly,Debit Card,21,799.0,5,1,2,26.3,2.6,0,9108.6
+CUST10777,59,North,Standard,Annual,UPI,44,799.0,5,0,1,23.5,2.8,0,9108.6
+CUST10778,39,North,Standard,Monthly,Credit Card,32,799.0,5,3,1,20.0,4.1,0,9108.6
+CUST10779,38,West,Basic,Monthly,Credit Card,23,499.0,0,2,1,14.0,3.6,0,5988.0
+CUST10780,23,South,Premium,Annual,Credit Card,13,1199.0,15,5,1,32.9,4.5,0,12229.8
+CUST10781,18,North,Basic,Annual,Credit Card,5,549.0,5,3,2,37.9,3.2,1,6258.599999999999
+CUST10782,22,South,Basic,Quarterly,Debit Card,4,599.0,5,7,2,36.0,4.2,0,6828.599999999999
+CUST10783,58,East,Basic,Annual,Net Banking,28,499.0,0,1,1,27.6,3.5,0,5988.0
+CUST10784,29,East,Basic,Monthly,Net Banking,14,499.0,0,4,0,8.6,2.8,0,5988.0
+CUST10785,43,East,Standard,Monthly,Debit Card,8,799.0,0,1,0,7.6,4.3,0,9588.0
+CUST10786,51,West,Basic,Monthly,UPI,9,499.0,10,2,0,17.6,2.6,0,5389.2
+CUST10787,31,South,Premium,Quarterly,Net Banking,35,1199.0,0,4,0,21.6,3.6,0,14388.0
+CUST10788,43,East,Basic,Quarterly,UPI,37,499.0,10,2,1,21.2,3.7,0,5389.2
+CUST10789,44,North,Basic,Monthly,Net Banking,21,549.0,5,0,0,23.6,3.4,0,6258.599999999999
+CUST10790,26,East,Basic,Monthly,UPI,18,499.0,5,2,0,10.9,4.4,0,5688.599999999999
+CUST10791,43,East,Basic,Quarterly,Debit Card,33,499.0,5,2,1,34.9,4.0,0,5688.599999999999
+CUST10792,39,East,Basic,Monthly,Credit Card,8,549.0,5,0,0,34.0,3.9,0,6258.599999999999
+CUST10793,47,West,Standard,Quarterly,UPI,17,849.0,0,1,1,11.5,3.6,0,10188.0
+CUST10794,60,North,Standard,Quarterly,Credit Card,43,799.0,0,3,2,7.1,5.0,0,9588.0
+CUST10795,34,South,Standard,Quarterly,UPI,31,799.0,10,0,2,21.3,4.8,0,8629.2
+CUST10796,43,North,Standard,Quarterly,UPI,34,799.0,10,1,1,32.1,4.3,0,8629.2
+CUST10797,53,South,Standard,Annual,UPI,6,799.0,0,1,0,21.7,4.2,0,9588.0
+CUST10798,18,West,Basic,Monthly,UPI,22,499.0,5,2,0,24.1,3.0,0,5688.599999999999
+CUST10799,25,West,Standard,Quarterly,UPI,14,799.0,0,0,0,18.5,3.5,0,9588.0
+CUST10800,52,West,Premium,Quarterly,Credit Card,3,1199.0,0,0,0,23.2,4.1,0,14388.0
+CUST10801,32,West,Standard,Monthly,UPI,12,849.0,0,0,1,29.6,4.4,0,10188.0
+CUST10802,39,South,Standard,Monthly,Credit Card,36,849.0,15,3,0,25.3,4.3,0,8659.8
+CUST10803,31,East,Basic,Monthly,Debit Card,12,499.0,0,3,1,26.6,4.0,0,5988.0
+CUST10804,43,South,Standard,Monthly,Net Banking,45,799.0,0,0,5,8.7,5.0,0,9588.0
+CUST10805,45,North,Standard,Quarterly,UPI,2,799.0,0,2,0,39.1,3.4,0,9588.0
+CUST10806,40,West,Standard,Annual,Net Banking,2,799.0,0,3,0,8.8,4.4,0,9588.0
+CUST10807,31,West,Premium,Monthly,Credit Card,15,1199.0,10,5,1,23.3,4.3,0,12949.2
+CUST10808,41,North,Basic,Monthly,Debit Card,23,599.0,0,3,0,20.8,3.9,0,7188.0
+CUST10809,19,South,Basic,Annual,Debit Card,29,549.0,0,1,2,21.1,3.9,0,6588.0
+CUST10810,43,East,Standard,Monthly,Debit Card,17,899.0,10,3,4,29.0,3.9,1,9709.2
+CUST10811,31,East,Premium,Monthly,Net Banking,32,1249.0,5,2,1,16.3,2.9,0,14238.599999999999
+CUST10812,24,North,Basic,Quarterly,Credit Card,7,599.0,10,0,1,18.5,3.9,0,6469.2
+CUST10813,20,East,Basic,Monthly,UPI,30,549.0,5,2,2,12.8,4.2,0,6258.599999999999
+CUST10814,40,South,Basic,Monthly,UPI,28,599.0,0,4,1,31.0,3.8,0,7188.0
+CUST10815,60,South,Basic,Monthly,Credit Card,14,499.0,10,3,0,24.1,1.8,0,5389.2
+CUST10816,35,North,Standard,Monthly,Net Banking,44,799.0,0,2,0,27.1,2.1,0,9588.0
+CUST10817,55,South,Standard,Quarterly,UPI,30,849.0,5,3,0,28.5,2.8,0,9678.6
+CUST10818,52,West,Basic,Monthly,Credit Card,17,599.0,5,3,1,37.9,3.4,0,6828.599999999999
+CUST10819,32,North,Basic,Monthly,UPI,32,499.0,0,1,0,36.5,2.8,0,5988.0
+CUST10820,42,South,Basic,Quarterly,Debit Card,46,499.0,10,1,1,24.6,4.1,0,5389.2
+CUST10821,54,North,Basic,Annual,UPI,6,499.0,15,5,0,23.3,4.6,0,5089.8
+CUST10822,45,East,Standard,Monthly,Net Banking,24,849.0,20,2,0,17.7,4.7,0,8150.400000000001
+CUST10823,27,South,Premium,Monthly,Credit Card,6,1199.0,10,4,0,28.0,3.8,1,12949.2
+CUST10824,56,West,Premium,Quarterly,Net Banking,27,1249.0,5,4,0,27.7,4.5,0,14238.599999999999
+CUST10825,34,South,Basic,Monthly,Credit Card,18,599.0,0,2,0,16.2,3.0,0,7188.0
+CUST10826,56,North,Premium,Monthly,Debit Card,24,1299.0,0,2,1,27.8,3.4,0,15588.0
+CUST10827,39,North,Standard,Quarterly,Credit Card,37,799.0,5,3,0,30.1,2.4,0,9108.6
+CUST10828,43,South,Standard,Annual,UPI,24,799.0,5,4,1,13.0,4.6,0,9108.6
+CUST10829,42,West,Standard,Annual,UPI,38,799.0,15,1,1,23.5,5.0,0,8149.8
+CUST10830,34,West,Standard,Quarterly,Debit Card,34,799.0,5,2,0,21.5,3.2,0,9108.6
+CUST10831,30,West,Basic,Quarterly,Credit Card,40,499.0,5,1,1,22.0,1.5,0,5688.599999999999
+CUST10832,37,North,Basic,Monthly,Debit Card,47,549.0,5,6,0,14.4,2.6,0,6258.599999999999
+CUST10833,42,South,Basic,Quarterly,UPI,15,499.0,15,2,1,7.4,2.9,0,5089.8
+CUST10834,21,East,Basic,Monthly,Net Banking,11,599.0,10,2,2,16.0,2.3,0,6469.2
+CUST10835,27,North,Standard,Monthly,Debit Card,22,899.0,10,1,1,14.8,2.6,0,9709.2
+CUST10836,20,West,Standard,Quarterly,Net Banking,24,799.0,5,4,3,24.8,3.7,0,9108.6
+CUST10837,58,South,Standard,Quarterly,Net Banking,1,899.0,15,2,1,25.0,4.1,0,9169.8
+CUST10838,35,West,Basic,Monthly,Credit Card,18,549.0,0,3,0,24.5,1.6,0,6588.0
+CUST10839,53,East,Premium,Annual,Debit Card,44,1199.0,15,1,1,10.8,3.0,0,12229.8
+CUST10840,39,West,Premium,Monthly,Net Banking,12,1199.0,5,4,1,13.0,3.5,0,13668.599999999999
+CUST10841,51,West,Standard,Monthly,Net Banking,43,799.0,5,4,1,17.1,2.5,0,9108.6
+CUST10842,25,East,Premium,Monthly,Credit Card,28,1199.0,5,0,0,22.2,3.7,0,13668.599999999999
+CUST10843,57,South,Standard,Quarterly,Credit Card,40,849.0,10,8,0,19.3,3.4,0,9169.2
+CUST10844,36,North,Premium,Quarterly,UPI,7,1199.0,0,3,1,24.5,3.1,0,14388.0
+CUST10845,59,South,Basic,Monthly,Net Banking,23,549.0,15,2,1,29.8,2.7,0,5599.8
+CUST10846,58,East,Basic,Quarterly,UPI,21,499.0,5,3,0,14.0,3.7,0,5688.599999999999
+CUST10847,54,West,Basic,Monthly,Net Banking,34,499.0,5,0,0,14.3,2.8,0,5688.599999999999
+CUST10848,23,South,Basic,Quarterly,UPI,11,549.0,0,2,0,23.1,1.9,0,6588.0
+CUST10849,43,North,Basic,Monthly,Credit Card,22,549.0,5,2,2,21.3,3.5,0,6258.599999999999
+CUST10850,51,East,Standard,Monthly,Debit Card,42,799.0,5,1,1,27.9,2.4,0,9108.6
+CUST10851,23,South,Standard,Annual,Credit Card,35,799.0,5,3,0,22.1,2.0,0,9108.6
+CUST10852,54,North,Standard,Monthly,UPI,29,899.0,10,2,0,35.9,3.6,0,9709.2
+CUST10853,50,East,Basic,Monthly,UPI,42,549.0,5,2,1,9.3,3.4,0,6258.599999999999
+CUST10854,39,North,Premium,Quarterly,Debit Card,28,1199.0,20,2,0,28.7,2.7,0,11510.400000000001
+CUST10855,38,East,Standard,Annual,Net Banking,18,799.0,5,3,0,23.6,3.7,0,9108.6
+CUST10856,23,West,Standard,Monthly,UPI,14,799.0,15,3,1,10.8,3.9,0,8149.8
+CUST10857,23,South,Standard,Monthly,UPI,18,799.0,0,3,0,5.5,3.7,0,9588.0
+CUST10858,21,North,Basic,Monthly,UPI,28,549.0,5,1,0,13.0,3.7,0,6258.599999999999
+CUST10859,47,East,Basic,Monthly,Debit Card,24,549.0,5,2,0,31.7,2.1,0,6258.599999999999
+CUST10860,28,North,Premium,Monthly,Credit Card,8,1249.0,5,3,0,30.8,4.7,0,14238.599999999999
+CUST10861,47,North,Basic,Quarterly,UPI,42,499.0,15,0,1,21.0,4.0,0,5089.8
+CUST10862,48,South,Standard,Annual,Debit Card,45,899.0,0,3,1,19.1,2.6,0,10788.0
+CUST10863,41,West,Premium,Monthly,UPI,8,1199.0,0,1,1,15.2,3.5,0,14388.0
+CUST10864,26,North,Standard,Monthly,Net Banking,4,899.0,15,1,0,20.5,3.7,0,9169.8
+CUST10865,20,East,Basic,Monthly,Debit Card,27,499.0,0,0,1,18.2,3.5,0,5988.0
+CUST10866,48,East,Basic,Monthly,UPI,36,499.0,10,2,1,35.7,5.0,0,5389.2
+CUST10867,57,West,Basic,Annual,Debit Card,5,549.0,5,3,3,12.1,1.7,1,6258.599999999999
+CUST10868,54,East,Standard,Monthly,UPI,33,799.0,15,2,0,25.1,2.2,0,8149.8
+CUST10869,53,West,Standard,Monthly,Credit Card,34,849.0,0,4,3,36.1,1.4,0,10188.0
+CUST10870,41,East,Basic,Quarterly,UPI,30,549.0,0,1,1,28.2,3.6,0,6588.0
+CUST10871,48,South,Premium,Monthly,Debit Card,8,1199.0,5,2,1,13.0,4.0,0,13668.599999999999
+CUST10872,23,North,Standard,Quarterly,Net Banking,39,849.0,20,1,0,9.7,3.8,0,8150.400000000001
+CUST10873,19,South,Basic,Monthly,Net Banking,47,499.0,5,2,1,24.2,3.2,0,5688.599999999999
+CUST10874,37,North,Standard,Annual,Net Banking,26,799.0,5,4,1,23.2,3.9,0,9108.6
+CUST10875,45,North,Standard,Annual,UPI,37,899.0,10,0,0,31.9,3.2,0,9709.2
+CUST10876,28,North,Basic,Quarterly,Credit Card,34,599.0,15,3,0,26.4,4.2,1,6109.8
+CUST10877,21,South,Basic,Annual,UPI,7,499.0,15,1,1,18.1,4.5,0,5089.8
+CUST10878,32,North,Premium,Monthly,Net Banking,40,1199.0,20,2,2,17.6,2.7,0,11510.400000000001
+CUST10879,23,South,Standard,Monthly,Debit Card,28,799.0,0,1,0,11.6,3.2,0,9588.0
+CUST10880,47,West,Standard,Quarterly,Net Banking,39,849.0,0,2,0,23.0,3.4,0,10188.0
+CUST10881,55,East,Standard,Quarterly,Debit Card,39,899.0,10,3,1,10.8,4.8,0,9709.2
+CUST10882,19,East,Basic,Monthly,Credit Card,28,499.0,15,3,0,29.3,2.8,0,5089.8
+CUST10883,32,North,Basic,Monthly,Debit Card,14,549.0,0,1,2,26.7,4.5,0,6588.0
+CUST10884,28,South,Standard,Monthly,UPI,38,799.0,0,1,0,26.5,2.2,0,9588.0
+CUST10885,25,East,Basic,Monthly,UPI,4,499.0,10,3,2,11.4,4.6,0,5389.2
+CUST10886,43,South,Basic,Monthly,UPI,42,599.0,0,5,2,20.8,4.3,0,7188.0
+CUST10887,22,South,Premium,Quarterly,Debit Card,18,1199.0,5,1,2,18.9,3.4,0,13668.599999999999
+CUST10888,23,North,Premium,Monthly,UPI,44,1199.0,5,3,0,22.8,4.3,0,13668.599999999999
+CUST10889,43,East,Standard,Monthly,UPI,48,849.0,5,1,0,26.2,3.0,0,9678.6
+CUST10890,21,North,Premium,Quarterly,UPI,25,1199.0,10,1,1,17.9,2.7,0,12949.2
+CUST10891,36,North,Basic,Quarterly,Credit Card,7,499.0,5,2,1,18.2,5.0,0,5688.599999999999
+CUST10892,37,East,Premium,Annual,Debit Card,38,1299.0,10,0,1,27.4,3.0,0,14029.2
+CUST10893,50,East,Basic,Quarterly,Debit Card,28,549.0,5,2,2,13.0,4.1,0,6258.599999999999
+CUST10894,37,West,Premium,Monthly,Net Banking,5,1249.0,5,2,1,16.0,4.5,0,14238.599999999999
+CUST10895,29,West,Premium,Annual,Debit Card,3,1199.0,10,1,0,22.0,4.2,0,12949.2
+CUST10896,18,South,Standard,Monthly,Credit Card,44,799.0,0,4,0,29.2,4.0,0,9588.0
+CUST10897,43,East,Premium,Monthly,Debit Card,31,1299.0,0,5,0,14.2,4.1,0,15588.0
+CUST10898,31,West,Standard,Quarterly,Credit Card,47,799.0,0,2,1,36.3,4.5,0,9588.0
+CUST10899,55,South,Basic,Annual,Credit Card,42,499.0,0,1,1,11.2,3.8,0,5988.0
+CUST10900,54,South,Standard,Monthly,Debit Card,20,799.0,5,2,1,34.4,3.5,0,9108.6
+CUST10901,28,South,Standard,Monthly,Net Banking,19,799.0,15,3,1,31.6,2.3,0,8149.8
+CUST10902,53,West,Basic,Monthly,UPI,48,499.0,10,0,1,10.6,3.8,0,5389.2
+CUST10903,30,East,Standard,Monthly,UPI,11,899.0,10,1,1,8.9,4.4,0,9709.2
+CUST10904,60,North,Premium,Monthly,Debit Card,40,1299.0,5,5,0,27.8,2.5,0,14808.599999999999
+CUST10905,20,South,Basic,Quarterly,Debit Card,3,549.0,5,3,0,19.0,3.3,0,6258.599999999999
+CUST10906,50,West,Standard,Monthly,Credit Card,23,849.0,5,0,0,13.9,3.9,0,9678.6
+CUST10907,23,West,Premium,Annual,Debit Card,7,1299.0,0,4,0,36.5,4.9,0,15588.0
+CUST10908,27,North,Premium,Quarterly,Credit Card,23,1249.0,0,2,1,12.4,2.5,0,14988.0
+CUST10909,22,North,Premium,Quarterly,Net Banking,7,1199.0,5,2,0,16.2,4.2,0,13668.599999999999
+CUST10910,40,West,Standard,Annual,Debit Card,46,799.0,20,1,0,17.1,3.2,0,7670.400000000001
+CUST10911,27,East,Premium,Monthly,UPI,34,1199.0,0,4,1,2.0,2.9,1,14388.0
+CUST10912,19,North,Standard,Monthly,UPI,42,799.0,0,1,0,22.7,2.7,0,9588.0
+CUST10913,30,West,Basic,Quarterly,Debit Card,19,499.0,10,1,1,14.7,2.9,0,5389.2
+CUST10914,57,North,Standard,Annual,Credit Card,9,799.0,0,3,0,28.5,3.9,0,9588.0
+CUST10915,19,East,Standard,Quarterly,UPI,48,799.0,15,2,1,29.5,3.3,0,8149.8
+CUST10916,37,South,Basic,Monthly,Credit Card,18,499.0,10,2,1,23.9,4.1,0,5389.2
+CUST10917,18,North,Standard,Annual,Debit Card,41,799.0,20,1,0,23.9,2.5,0,7670.400000000001
+CUST10918,54,East,Standard,Monthly,Debit Card,48,799.0,5,2,0,23.3,4.1,0,9108.6
+CUST10919,26,West,Basic,Annual,UPI,45,549.0,10,2,2,16.4,3.9,0,5929.2
+CUST10920,34,North,Standard,Annual,Debit Card,42,799.0,5,1,0,17.1,2.1,0,9108.6
+CUST10921,26,North,Standard,Monthly,Net Banking,25,849.0,10,2,3,32.6,4.9,0,9169.2
+CUST10922,28,West,Standard,Quarterly,Net Banking,14,899.0,5,1,1,27.9,3.8,0,10248.6
+CUST10923,32,South,Basic,Monthly,UPI,44,549.0,0,3,0,23.6,4.2,0,6588.0
+CUST10924,41,West,Basic,Monthly,Net Banking,25,549.0,5,0,0,26.8,4.5,0,6258.599999999999
+CUST10925,55,North,Basic,Monthly,Credit Card,19,599.0,5,1,1,21.5,4.4,0,6828.599999999999
+CUST10926,52,West,Premium,Quarterly,UPI,39,1199.0,15,2,0,23.5,3.4,0,12229.8
+CUST10927,47,East,Basic,Annual,UPI,15,599.0,10,3,0,26.8,4.2,0,6469.2
+CUST10928,48,West,Standard,Quarterly,Credit Card,16,849.0,10,3,0,5.4,1.9,0,9169.2
+CUST10929,22,North,Basic,Monthly,Net Banking,27,549.0,0,0,1,29.2,3.9,0,6588.0
+CUST10930,31,West,Basic,Annual,Net Banking,40,499.0,10,1,0,28.7,5.0,0,5389.2
+CUST10931,28,South,Premium,Annual,Net Banking,10,1199.0,5,2,1,15.8,2.9,0,13668.599999999999
+CUST10932,26,West,Standard,Monthly,UPI,4,849.0,15,0,3,32.0,4.3,0,8659.8
+CUST10933,51,South,Basic,Annual,UPI,19,549.0,15,2,0,4.3,5.0,0,5599.8
+CUST10934,29,East,Standard,Monthly,Net Banking,28,849.0,0,3,1,24.8,4.1,0,10188.0
+CUST10935,52,South,Basic,Annual,Debit Card,21,499.0,15,2,0,22.3,4.4,0,5089.8
+CUST10936,52,West,Standard,Monthly,Net Banking,47,799.0,0,4,0,19.5,2.1,0,9588.0
+CUST10937,18,North,Standard,Monthly,Credit Card,14,799.0,5,2,0,22.2,2.7,0,9108.6
+CUST10938,57,South,Basic,Monthly,UPI,33,499.0,5,2,1,26.7,4.8,0,5688.599999999999
+CUST10939,39,East,Basic,Quarterly,Credit Card,48,499.0,0,0,1,7.6,4.4,0,5988.0
+CUST10940,46,South,Standard,Monthly,Credit Card,10,799.0,10,0,0,30.0,3.9,0,8629.2
+CUST10941,25,South,Premium,Monthly,UPI,19,1199.0,0,2,1,18.7,3.3,0,14388.0
+CUST10942,28,South,Premium,Quarterly,Debit Card,30,1199.0,0,1,1,30.1,3.8,0,14388.0
+CUST10943,58,East,Basic,Annual,Net Banking,22,499.0,5,1,0,27.1,5.0,0,5688.599999999999
+CUST10944,54,West,Standard,Monthly,Credit Card,3,899.0,10,3,0,18.6,3.4,0,9709.2
+CUST10945,31,South,Basic,Monthly,UPI,37,549.0,15,2,1,21.4,4.1,0,5599.8
+CUST10946,47,South,Standard,Monthly,Credit Card,41,849.0,10,4,0,21.8,4.1,0,9169.2
+CUST10947,52,North,Standard,Monthly,Net Banking,18,799.0,10,3,0,34.9,2.9,0,8629.2
+CUST10948,38,East,Premium,Annual,Debit Card,11,1249.0,5,2,2,12.9,3.0,0,14238.599999999999
+CUST10949,54,South,Premium,Annual,Debit Card,48,1199.0,0,1,0,18.5,4.9,0,14388.0
+CUST10950,22,East,Standard,Quarterly,Debit Card,2,899.0,0,1,3,9.3,4.0,0,10788.0
+CUST10951,36,South,Basic,Monthly,UPI,12,549.0,5,2,1,23.0,2.9,0,6258.599999999999
+CUST10952,31,West,Standard,Quarterly,UPI,6,849.0,10,5,2,17.0,3.2,0,9169.2
+CUST10953,43,West,Basic,Quarterly,Debit Card,43,599.0,5,4,0,18.0,2.6,0,6828.599999999999
+CUST10954,21,South,Standard,Annual,Net Banking,40,799.0,10,1,1,33.9,4.5,0,8629.2
+CUST10955,42,West,Basic,Quarterly,Net Banking,44,499.0,5,0,1,15.4,3.3,0,5688.599999999999
+CUST10956,59,South,Standard,Quarterly,UPI,29,849.0,0,0,0,20.7,3.3,0,10188.0
+CUST10957,42,West,Basic,Quarterly,Debit Card,30,499.0,0,5,0,18.3,4.3,0,5988.0
+CUST10958,35,North,Basic,Monthly,Net Banking,2,499.0,15,4,0,18.8,2.0,1,5089.8
+CUST10959,57,North,Premium,Annual,Net Banking,9,1249.0,10,2,0,44.2,3.5,0,13489.2
+CUST10960,25,North,Basic,Monthly,Net Banking,47,499.0,15,2,0,8.1,3.5,0,5089.8
+CUST10961,56,East,Standard,Quarterly,UPI,2,849.0,0,4,2,27.2,3.2,0,10188.0
+CUST10962,57,East,Basic,Monthly,Debit Card,29,599.0,20,3,1,41.4,3.0,0,5750.400000000001
+CUST10963,31,North,Basic,Quarterly,Credit Card,33,499.0,0,6,1,30.6,2.9,0,5988.0
+CUST10964,49,East,Basic,Quarterly,Debit Card,10,499.0,0,0,0,22.4,3.8,0,5988.0
+CUST10965,55,West,Basic,Monthly,Debit Card,34,499.0,20,3,0,12.6,2.6,0,4790.400000000001
+CUST10966,50,South,Premium,Monthly,UPI,44,1199.0,0,1,0,32.4,3.6,0,14388.0
+CUST10967,40,South,Basic,Quarterly,Net Banking,8,499.0,10,1,0,29.5,3.0,0,5389.2
+CUST10968,32,South,Premium,Quarterly,Net Banking,37,1199.0,0,1,1,9.8,3.1,0,14388.0
+CUST10969,50,North,Standard,Monthly,UPI,33,799.0,5,5,4,19.4,3.7,1,9108.6
+CUST10970,42,East,Standard,Monthly,UPI,47,799.0,15,6,1,12.4,3.1,0,8149.8
+CUST10971,34,West,Standard,Quarterly,UPI,6,849.0,5,1,3,2.0,4.6,0,9678.6
+CUST10972,50,West,Standard,Monthly,UPI,44,899.0,10,2,1,12.2,3.4,0,9709.2
+CUST10973,19,North,Standard,Monthly,UPI,40,849.0,0,0,0,22.8,4.4,0,10188.0
+CUST10974,31,West,Basic,Monthly,Credit Card,45,499.0,10,0,1,26.6,2.8,0,5389.2
+CUST10975,57,West,Basic,Monthly,Debit Card,19,499.0,5,4,1,19.4,2.8,0,5688.599999999999
+CUST10976,57,West,Premium,Monthly,Debit Card,32,1249.0,0,2,1,33.0,2.0,0,14988.0
+CUST10977,56,West,Premium,Monthly,Debit Card,27,1199.0,0,1,3,30.2,3.1,0,14388.0
+CUST10978,23,East,Premium,Monthly,Net Banking,1,1199.0,0,2,1,21.0,3.3,0,14388.0
+CUST10979,23,West,Standard,Monthly,Credit Card,43,849.0,15,0,0,20.0,3.6,0,8659.8
+CUST10980,20,South,Standard,Monthly,Debit Card,33,799.0,5,0,0,25.1,4.1,0,9108.6
+CUST10981,24,North,Standard,Monthly,Net Banking,40,799.0,0,2,1,21.9,4.1,1,9588.0
+CUST10982,25,East,Standard,Monthly,Credit Card,32,899.0,5,2,2,10.6,4.5,0,10248.6
+CUST10983,59,West,Basic,Annual,Credit Card,5,599.0,5,0,1,19.6,2.7,0,6828.599999999999
+CUST10984,32,East,Standard,Monthly,Net Banking,17,799.0,10,2,1,27.3,3.5,0,8629.2
+CUST10985,46,West,Basic,Monthly,Credit Card,8,499.0,20,1,1,32.5,2.6,0,4790.400000000001
+CUST10986,50,South,Basic,Monthly,Net Banking,42,549.0,5,3,0,29.7,3.9,0,6258.599999999999
+CUST10987,47,North,Premium,Monthly,Debit Card,34,1249.0,15,4,0,24.7,5.0,0,12739.8
+CUST10988,56,West,Basic,Quarterly,Net Banking,9,499.0,5,4,0,33.7,2.4,0,5688.599999999999
+CUST10989,44,West,Basic,Quarterly,Credit Card,23,549.0,0,2,0,25.4,4.1,0,6588.0
+CUST10990,53,West,Basic,Annual,Debit Card,35,599.0,10,4,0,21.3,4.4,0,6469.2
+CUST10991,46,West,Premium,Quarterly,Debit Card,7,1199.0,5,4,0,33.8,2.7,0,13668.599999999999
+CUST10992,55,North,Standard,Annual,UPI,15,899.0,10,2,1,27.8,3.9,0,9709.2
+CUST10993,50,North,Standard,Monthly,UPI,20,899.0,15,2,2,32.4,3.2,0,9169.8
+CUST10994,54,South,Premium,Monthly,Credit Card,25,1199.0,5,0,1,12.5,3.4,0,13668.599999999999
+CUST10995,44,North,Premium,Monthly,Net Banking,3,1249.0,15,4,1,15.1,3.1,1,12739.8
+CUST10996,50,West,Basic,Monthly,Net Banking,46,499.0,10,3,2,15.5,3.3,0,5389.2
+CUST10997,21,South,Standard,Monthly,Credit Card,24,849.0,5,2,1,23.5,4.5,0,9678.6
+CUST10998,39,South,Standard,Quarterly,Debit Card,34,849.0,10,3,0,36.6,3.4,0,9169.2
+CUST10999,19,South,Standard,Monthly,Credit Card,46,799.0,5,3,0,12.9,3.0,0,9108.6
+CUST11000,27,West,Basic,Annual,Credit Card,22,549.0,20,2,2,29.2,3.6,0,5270.400000000001
+CUST11001,22,East,Premium,Annual,Debit Card,11,1249.0,10,6,0,12.4,1.6,0,13489.2
+CUST11002,27,West,Standard,Monthly,Net Banking,48,799.0,0,1,1,38.9,2.8,0,9588.0
+CUST11003,50,North,Basic,Monthly,Credit Card,8,499.0,5,2,0,9.2,4.6,0,5688.599999999999
+CUST11004,55,North,Standard,Monthly,Net Banking,39,799.0,10,2,1,27.9,3.4,0,8629.2
+CUST11005,30,West,Basic,Monthly,Credit Card,43,549.0,0,2,0,29.0,3.1,0,6588.0
+CUST11006,48,West,Basic,Monthly,Debit Card,35,599.0,0,3,0,27.0,3.7,0,7188.0
+CUST11007,53,South,Standard,Monthly,Debit Card,46,849.0,5,2,1,15.0,4.2,0,9678.6
+CUST11008,41,West,Basic,Monthly,UPI,38,499.0,5,3,0,13.5,4.7,0,5688.599999999999
+CUST11009,32,South,Standard,Monthly,Debit Card,8,799.0,5,1,0,32.2,3.1,0,9108.6
+CUST11010,46,North,Standard,Annual,UPI,37,799.0,0,1,0,30.4,3.1,0,9588.0
+CUST11011,25,South,Basic,Quarterly,Credit Card,27,499.0,0,0,0,30.3,3.3,0,5988.0
+CUST11012,22,West,Premium,Annual,Net Banking,28,1199.0,10,6,0,31.2,4.4,0,12949.2
+CUST11013,46,North,Basic,Monthly,Debit Card,40,499.0,5,2,1,9.7,3.6,0,5688.599999999999
+CUST11014,21,East,Basic,Monthly,Debit Card,34,499.0,0,6,2,9.5,5.0,0,5988.0
+CUST11015,29,South,Basic,Quarterly,Debit Card,32,599.0,0,2,0,16.6,3.4,0,7188.0
+CUST11016,19,North,Basic,Monthly,Credit Card,15,549.0,5,1,1,18.2,5.0,0,6258.599999999999
+CUST11017,44,South,Basic,Monthly,UPI,44,549.0,0,1,0,17.3,2.7,0,6588.0
+CUST11018,48,North,Standard,Quarterly,Credit Card,17,799.0,0,0,0,24.2,2.2,0,9588.0
+CUST11019,53,North,Premium,Quarterly,Net Banking,33,1299.0,0,2,1,30.9,3.4,0,15588.0
+CUST11020,53,South,Basic,Monthly,Credit Card,47,549.0,15,2,2,19.6,4.5,0,5599.8
+CUST11021,43,East,Standard,Monthly,Net Banking,46,899.0,10,5,0,15.5,3.1,0,9709.2
+CUST11022,60,North,Standard,Monthly,Debit Card,16,799.0,10,1,0,28.5,2.9,0,8629.2
+CUST11023,44,North,Premium,Monthly,Net Banking,29,1199.0,10,1,0,19.7,4.4,0,12949.2
+CUST11024,22,North,Standard,Monthly,Net Banking,9,799.0,10,2,0,22.9,4.1,0,8629.2
+CUST11025,37,East,Basic,Monthly,UPI,33,499.0,5,2,0,19.3,2.8,0,5688.599999999999
+CUST11026,28,East,Basic,Monthly,Net Banking,29,549.0,10,2,0,24.7,2.7,0,5929.2
+CUST11027,27,West,Standard,Annual,Net Banking,13,899.0,0,0,0,13.9,4.2,0,10788.0
+CUST11028,57,South,Premium,Quarterly,Credit Card,21,1199.0,10,3,0,27.8,2.0,0,12949.2
+CUST11029,55,East,Basic,Quarterly,Debit Card,21,499.0,10,3,3,21.7,4.5,0,5389.2
+CUST11030,23,South,Basic,Monthly,Credit Card,5,549.0,5,3,0,15.9,4.1,0,6258.599999999999
+CUST11031,25,West,Premium,Monthly,Credit Card,10,1199.0,5,1,0,26.2,1.4,0,13668.599999999999
+CUST11032,40,South,Premium,Monthly,Debit Card,6,1249.0,0,3,0,15.9,3.5,0,14988.0
+CUST11033,43,East,Premium,Monthly,Debit Card,13,1249.0,10,1,0,16.2,1.7,0,13489.2
+CUST11034,60,South,Standard,Monthly,Net Banking,1,799.0,10,2,2,12.4,2.4,0,8629.2
+CUST11035,29,East,Standard,Quarterly,Net Banking,20,849.0,15,2,0,8.4,3.0,0,8659.8
+CUST11036,43,South,Standard,Quarterly,UPI,47,799.0,5,1,0,26.3,2.4,0,9108.6
+CUST11037,30,East,Standard,Monthly,Credit Card,46,899.0,10,5,0,31.3,5.0,0,9709.2
+CUST11038,57,East,Basic,Monthly,Debit Card,8,549.0,5,1,0,18.4,4.3,0,6258.599999999999
+CUST11039,35,South,Standard,Annual,Net Banking,10,899.0,15,2,0,15.6,4.7,0,9169.8
+CUST11040,42,West,Standard,Monthly,Debit Card,9,799.0,5,1,0,7.5,3.4,0,9108.6
+CUST11041,50,North,Basic,Monthly,Net Banking,41,499.0,5,4,0,4.6,3.5,0,5688.599999999999
+CUST11042,57,West,Standard,Monthly,UPI,3,799.0,5,2,0,27.8,4.9,0,9108.6
+CUST11043,60,South,Standard,Quarterly,UPI,11,799.0,10,1,0,6.2,3.9,0,8629.2
+CUST11044,29,West,Premium,Annual,Debit Card,12,1299.0,20,1,0,12.8,4.1,0,12470.400000000001
+CUST11045,53,East,Basic,Monthly,UPI,10,499.0,0,1,1,24.3,2.7,0,5988.0
+CUST11046,21,North,Basic,Annual,Debit Card,25,549.0,0,3,4,22.7,2.7,0,6588.0
+CUST11047,22,South,Standard,Annual,Net Banking,25,799.0,15,1,1,24.6,3.7,0,8149.8
+CUST11048,54,South,Basic,Monthly,Credit Card,11,499.0,5,1,0,22.1,3.8,0,5688.599999999999
+CUST11049,25,South,Standard,Monthly,UPI,36,899.0,10,3,5,19.1,2.6,1,9709.2
+CUST11050,59,North,Standard,Monthly,Net Banking,39,799.0,5,3,1,12.9,3.8,0,9108.6
+CUST11051,45,East,Basic,Annual,Credit Card,26,549.0,0,2,3,16.9,2.4,0,6588.0
+CUST11052,48,South,Standard,Monthly,Credit Card,14,799.0,10,0,0,19.7,3.5,0,8629.2
+CUST11053,26,West,Standard,Quarterly,Credit Card,39,899.0,10,1,0,6.9,2.2,0,9709.2
+CUST11054,46,South,Basic,Monthly,Net Banking,40,549.0,0,2,2,15.7,4.7,0,6588.0
+CUST11055,31,South,Premium,Quarterly,Net Banking,1,1249.0,0,1,0,19.0,3.2,0,14988.0
+CUST11056,57,South,Premium,Monthly,Debit Card,4,1199.0,15,0,3,16.5,2.9,0,12229.8
+CUST11057,58,South,Standard,Quarterly,Credit Card,30,799.0,0,0,0,19.3,2.5,0,9588.0
+CUST11058,39,East,Standard,Annual,Credit Card,12,899.0,15,0,0,27.3,2.4,0,9169.8
+CUST11059,28,West,Standard,Annual,Credit Card,35,899.0,0,2,0,28.3,3.9,0,10788.0
+CUST11060,40,East,Premium,Annual,Debit Card,13,1199.0,5,0,1,34.1,4.4,0,13668.599999999999
+CUST11061,18,West,Standard,Monthly,Credit Card,31,799.0,15,0,1,9.9,4.3,0,8149.8
+CUST11062,54,South,Standard,Quarterly,Net Banking,38,799.0,10,5,1,18.6,4.8,0,8629.2
+CUST11063,38,North,Premium,Monthly,Credit Card,43,1199.0,5,3,0,31.8,5.0,0,13668.599999999999
+CUST11064,43,East,Basic,Monthly,UPI,23,549.0,10,1,1,8.0,4.4,0,5929.2
+CUST11065,53,North,Premium,Monthly,Net Banking,4,1199.0,5,0,0,12.6,3.0,0,13668.599999999999
+CUST11066,40,East,Basic,Monthly,Debit Card,16,499.0,0,2,0,17.1,3.7,0,5988.0
+CUST11067,18,South,Basic,Monthly,Credit Card,7,549.0,20,0,0,38.4,1.5,0,5270.400000000001
+CUST11068,57,East,Basic,Annual,UPI,22,499.0,10,1,1,14.2,4.1,0,5389.2
+CUST11069,32,South,Premium,Monthly,Debit Card,29,1249.0,10,1,0,30.7,3.6,0,13489.2
+CUST11070,38,East,Premium,Quarterly,Debit Card,11,1299.0,5,2,0,21.8,4.9,0,14808.599999999999
+CUST11071,26,South,Standard,Monthly,Net Banking,33,799.0,0,2,1,12.8,2.8,0,9588.0
+CUST11072,26,South,Standard,Monthly,Debit Card,29,849.0,0,3,0,44.4,4.0,0,10188.0
+CUST11073,27,West,Standard,Monthly,Debit Card,39,799.0,5,2,1,23.6,2.6,0,9108.6
+CUST11074,43,South,Premium,Annual,Debit Card,12,1199.0,10,2,1,25.0,3.4,0,12949.2
+CUST11075,58,West,Standard,Annual,Debit Card,7,799.0,5,2,1,26.3,2.0,0,9108.6
+CUST11076,52,South,Standard,Annual,Credit Card,39,799.0,15,0,1,25.7,4.7,0,8149.8
+CUST11077,42,North,Basic,Annual,Credit Card,42,499.0,0,2,1,39.2,4.4,0,5988.0
+CUST11078,43,South,Standard,Monthly,Credit Card,48,799.0,5,0,2,36.3,3.1,0,9108.6
+CUST11079,28,North,Standard,Monthly,Credit Card,26,899.0,0,0,0,14.5,3.7,0,10788.0
+CUST11080,55,North,Standard,Quarterly,UPI,40,849.0,5,4,0,38.1,3.5,0,9678.6
+CUST11081,19,South,Basic,Monthly,Credit Card,9,599.0,0,2,2,16.4,2.9,0,7188.0
+CUST11082,24,North,Premium,Monthly,Debit Card,41,1249.0,20,3,1,24.6,3.6,0,11990.400000000001
+CUST11083,35,West,Basic,Monthly,Credit Card,34,499.0,0,4,2,10.4,3.1,0,5988.0
+CUST11084,44,East,Standard,Quarterly,Credit Card,45,799.0,15,4,2,30.3,4.4,0,8149.8
+CUST11085,51,South,Premium,Quarterly,Net Banking,13,1199.0,5,1,1,19.5,3.3,1,13668.599999999999
+CUST11086,44,North,Standard,Monthly,Debit Card,36,799.0,20,3,1,12.8,5.0,0,7670.400000000001
+CUST11087,34,South,Basic,Monthly,Credit Card,25,549.0,5,1,0,31.5,3.4,0,6258.599999999999
+CUST11088,60,West,Standard,Quarterly,Credit Card,24,799.0,15,3,0,33.5,3.6,0,8149.8
+CUST11089,41,South,Premium,Quarterly,Credit Card,44,1199.0,0,1,0,33.8,4.0,0,14388.0
+CUST11090,42,South,Standard,Monthly,UPI,17,799.0,10,2,1,9.8,4.3,0,8629.2
+CUST11091,24,North,Premium,Quarterly,Credit Card,2,1199.0,15,3,0,34.6,3.6,0,12229.8
+CUST11092,23,West,Basic,Monthly,Net Banking,13,499.0,0,1,1,19.6,4.0,0,5988.0
+CUST11093,41,East,Standard,Monthly,Debit Card,31,799.0,0,4,2,38.4,3.7,0,9588.0
+CUST11094,50,East,Standard,Quarterly,Debit Card,29,849.0,5,2,0,27.0,2.8,0,9678.6
+CUST11095,46,North,Premium,Quarterly,Credit Card,28,1199.0,15,0,0,24.0,2.6,0,12229.8
+CUST11096,60,South,Basic,Monthly,Credit Card,27,549.0,5,1,1,22.1,4.1,0,6258.599999999999
+CUST11097,39,North,Premium,Quarterly,Credit Card,15,1199.0,5,0,0,21.9,4.9,0,13668.599999999999
+CUST11098,43,North,Standard,Quarterly,Debit Card,31,799.0,0,1,0,16.6,2.0,0,9588.0
+CUST11099,45,North,Standard,Quarterly,Debit Card,40,849.0,0,4,0,13.5,2.2,0,10188.0
+CUST11100,38,South,Basic,Quarterly,UPI,15,549.0,15,2,3,19.1,2.2,0,5599.8
+CUST11101,24,West,Premium,Quarterly,Net Banking,33,1199.0,0,2,0,31.5,4.2,0,14388.0
+CUST11102,34,North,Basic,Monthly,UPI,20,599.0,10,1,0,10.8,4.3,0,6469.2
+CUST11103,37,South,Basic,Monthly,Net Banking,42,499.0,15,1,1,32.7,2.6,0,5089.8
+CUST11104,58,West,Basic,Monthly,UPI,12,499.0,0,4,0,23.1,5.0,0,5988.0
+CUST11105,37,North,Premium,Monthly,Debit Card,37,1249.0,10,4,2,28.3,3.2,0,13489.2
+CUST11106,39,East,Standard,Quarterly,UPI,9,849.0,0,1,2,28.7,4.8,0,10188.0
+CUST11107,45,West,Standard,Monthly,Net Banking,23,799.0,10,4,1,29.4,4.2,0,8629.2
+CUST11108,57,North,Basic,Monthly,Credit Card,8,499.0,0,0,1,22.2,2.6,1,5988.0
+CUST11109,24,West,Standard,Monthly,Net Banking,32,899.0,10,2,1,22.4,3.1,0,9709.2
+CUST11110,18,West,Standard,Monthly,Credit Card,48,799.0,0,0,0,29.2,2.7,0,9588.0
+CUST11111,49,West,Premium,Monthly,Debit Card,14,1199.0,5,2,0,13.7,2.3,0,13668.599999999999
+CUST11112,30,West,Premium,Quarterly,Net Banking,27,1199.0,5,1,1,12.4,3.3,0,13668.599999999999
+CUST11113,47,West,Basic,Monthly,UPI,25,599.0,0,3,0,18.3,2.4,0,7188.0
+CUST11114,40,West,Standard,Quarterly,Net Banking,13,799.0,10,3,0,24.3,3.3,0,8629.2
+CUST11115,36,North,Basic,Annual,Credit Card,21,549.0,0,0,0,37.4,5.0,0,6588.0
+CUST11116,49,East,Standard,Monthly,Debit Card,45,849.0,10,2,0,22.4,4.1,0,9169.2
+CUST11117,47,South,Basic,Monthly,UPI,31,499.0,0,0,1,38.0,3.0,0,5988.0
+CUST11118,46,West,Basic,Monthly,Net Banking,37,549.0,10,2,0,26.1,2.9,0,5929.2
+CUST11119,46,South,Basic,Quarterly,Credit Card,48,599.0,0,1,2,18.4,3.1,0,7188.0
+CUST11120,47,North,Standard,Quarterly,UPI,43,799.0,5,3,0,31.2,5.0,0,9108.6
+CUST11121,33,West,Basic,Monthly,Debit Card,5,499.0,0,2,1,20.1,2.5,0,5988.0
+CUST11122,57,East,Standard,Monthly,UPI,13,899.0,10,1,1,24.0,3.5,0,9709.2
+CUST11123,36,South,Standard,Annual,Debit Card,28,849.0,0,2,0,11.3,3.9,0,10188.0
+CUST11124,35,West,Basic,Monthly,UPI,43,499.0,15,3,0,9.9,4.6,0,5089.8
+CUST11125,18,North,Standard,Monthly,Net Banking,25,849.0,15,3,2,26.4,3.2,0,8659.8
+CUST11126,31,East,Basic,Annual,Credit Card,35,549.0,0,0,1,30.8,2.6,0,6588.0
+CUST11127,19,South,Standard,Quarterly,Net Banking,47,849.0,10,1,0,37.6,3.8,0,9169.2
+CUST11128,45,South,Standard,Annual,Net Banking,39,899.0,0,4,1,15.5,4.7,0,10788.0
+CUST11129,47,West,Basic,Quarterly,Debit Card,7,499.0,5,3,3,33.7,3.3,0,5688.599999999999
+CUST11130,55,East,Basic,Annual,Debit Card,38,499.0,10,1,0,32.5,2.7,0,5389.2
+CUST11131,21,East,Basic,Monthly,Debit Card,32,549.0,10,0,0,18.1,3.6,0,5929.2
+CUST11132,18,East,Premium,Quarterly,Net Banking,3,1199.0,10,4,0,33.1,2.0,0,12949.2
+CUST11133,25,East,Standard,Annual,UPI,45,849.0,0,1,0,29.6,3.3,0,10188.0
+CUST11134,46,North,Standard,Quarterly,UPI,39,799.0,5,3,0,31.1,4.6,0,9108.6
+CUST11135,56,East,Standard,Monthly,Net Banking,37,799.0,0,1,0,39.3,4.3,0,9588.0
+CUST11136,20,South,Basic,Monthly,Net Banking,22,499.0,10,2,1,30.8,3.4,0,5389.2
+CUST11137,49,South,Standard,Monthly,Credit Card,8,849.0,5,4,3,4.9,5.0,0,9678.6
+CUST11138,27,North,Standard,Monthly,Debit Card,17,849.0,10,1,0,24.6,5.0,0,9169.2
+CUST11139,27,South,Basic,Monthly,Debit Card,27,499.0,0,4,0,9.5,4.1,0,5988.0
+CUST11140,36,South,Basic,Quarterly,Net Banking,33,499.0,5,2,0,23.2,2.2,0,5688.599999999999
+CUST11141,51,East,Basic,Quarterly,Net Banking,46,499.0,5,3,0,22.7,1.8,0,5688.599999999999
+CUST11142,50,South,Standard,Monthly,UPI,17,849.0,0,4,1,17.3,4.7,0,10188.0
+CUST11143,40,North,Premium,Quarterly,Net Banking,42,1199.0,5,5,2,13.8,3.7,0,13668.599999999999
+CUST11144,45,East,Basic,Monthly,UPI,12,549.0,15,1,0,17.8,5.0,0,5599.8
+CUST11145,49,West,Standard,Monthly,Net Banking,48,799.0,15,2,1,19.3,2.3,0,8149.8
+CUST11146,24,East,Basic,Monthly,Credit Card,46,499.0,5,3,1,20.9,3.4,0,5688.599999999999
+CUST11147,46,North,Premium,Monthly,Credit Card,27,1249.0,5,0,1,22.8,4.4,0,14238.599999999999
+CUST11148,25,East,Basic,Monthly,UPI,48,499.0,0,1,0,26.7,2.8,0,5988.0
+CUST11149,18,East,Standard,Monthly,Debit Card,8,799.0,15,2,1,19.5,4.4,0,8149.8
+CUST11150,20,North,Standard,Monthly,Credit Card,23,799.0,0,0,0,32.2,3.4,0,9588.0
+CUST11151,41,East,Standard,Annual,UPI,42,799.0,20,2,0,21.7,3.5,0,7670.400000000001
+CUST11152,40,North,Standard,Monthly,Net Banking,29,799.0,5,4,0,29.4,2.4,0,9108.6
+CUST11153,25,North,Basic,Quarterly,Net Banking,20,499.0,5,3,1,19.6,3.7,0,5688.599999999999
+CUST11154,54,West,Standard,Quarterly,UPI,16,849.0,15,2,1,43.9,5.0,0,8659.8
+CUST11155,20,South,Basic,Quarterly,Debit Card,17,549.0,0,4,0,25.7,3.8,0,6588.0
+CUST11156,50,South,Basic,Annual,UPI,16,549.0,5,3,0,35.1,2.8,0,6258.599999999999
+CUST11157,45,East,Standard,Monthly,UPI,19,799.0,5,0,2,16.4,4.8,0,9108.6
+CUST11158,25,East,Basic,Monthly,Credit Card,8,549.0,0,2,0,18.4,2.8,0,6588.0
+CUST11159,51,West,Basic,Annual,UPI,38,549.0,5,5,1,20.0,5.0,0,6258.599999999999
+CUST11160,52,West,Standard,Monthly,UPI,38,799.0,10,1,1,41.8,2.4,0,8629.2
+CUST11161,49,West,Premium,Quarterly,Net Banking,29,1249.0,10,2,1,20.3,3.7,1,13489.2
+CUST11162,41,North,Standard,Quarterly,Credit Card,41,899.0,0,2,0,15.4,4.9,0,10788.0
+CUST11163,31,West,Basic,Quarterly,Net Banking,36,499.0,15,2,1,32.4,2.7,0,5089.8
+CUST11164,49,West,Basic,Annual,Net Banking,26,599.0,0,1,0,22.5,3.6,0,7188.0
+CUST11165,60,East,Premium,Annual,Debit Card,31,1199.0,0,2,3,20.3,4.5,0,14388.0
+CUST11166,33,West,Basic,Quarterly,Debit Card,44,499.0,0,0,0,17.1,1.5,0,5988.0
+CUST11167,21,North,Basic,Monthly,Credit Card,12,499.0,0,0,2,25.9,4.3,0,5988.0
+CUST11168,54,North,Standard,Annual,Credit Card,17,849.0,0,0,0,30.5,3.4,0,10188.0
+CUST11169,38,East,Standard,Monthly,Debit Card,15,799.0,20,2,0,28.3,4.8,0,7670.400000000001
+CUST11170,31,West,Standard,Monthly,Debit Card,9,899.0,0,5,2,18.2,2.8,0,10788.0
+CUST11171,48,West,Basic,Annual,Debit Card,39,549.0,0,3,0,14.1,2.3,0,6588.0
+CUST11172,35,North,Basic,Monthly,Debit Card,42,549.0,0,4,0,2.0,3.0,0,6588.0
+CUST11173,24,West,Premium,Monthly,Debit Card,48,1199.0,10,1,0,14.4,3.0,0,12949.2
+CUST11174,27,West,Basic,Monthly,Net Banking,12,599.0,15,2,0,19.0,3.3,0,6109.8
+CUST11175,24,West,Standard,Annual,Credit Card,32,849.0,0,3,0,21.5,3.1,0,10188.0
+CUST11176,50,South,Standard,Monthly,Net Banking,25,799.0,0,2,1,19.8,1.7,0,9588.0
+CUST11177,40,East,Standard,Quarterly,Net Banking,39,849.0,0,3,1,44.4,3.4,0,10188.0
+CUST11178,38,South,Basic,Monthly,UPI,18,549.0,0,5,1,25.9,3.7,0,6588.0
+CUST11179,36,East,Basic,Quarterly,Net Banking,15,549.0,0,3,3,12.1,3.3,0,6588.0
+CUST11180,36,North,Standard,Quarterly,Debit Card,32,799.0,5,1,0,27.2,3.8,0,9108.6
+CUST11181,53,West,Premium,Monthly,Debit Card,6,1199.0,0,2,3,25.1,3.6,0,14388.0
+CUST11182,46,East,Premium,Monthly,UPI,44,1199.0,5,1,1,13.6,2.3,0,13668.599999999999
+CUST11183,35,South,Basic,Monthly,UPI,43,499.0,0,2,0,24.3,3.2,0,5988.0
+CUST11184,19,West,Basic,Annual,UPI,35,549.0,20,1,0,26.2,3.6,0,5270.400000000001
+CUST11185,18,North,Premium,Quarterly,UPI,34,1299.0,15,2,0,30.2,3.3,0,13249.8
+CUST11186,22,East,Standard,Annual,UPI,38,899.0,5,1,3,7.8,2.2,0,10248.6
+CUST11187,37,East,Premium,Monthly,Net Banking,5,1249.0,5,3,1,27.2,4.6,0,14238.599999999999
+CUST11188,28,East,Basic,Quarterly,UPI,18,549.0,5,3,0,33.3,2.6,0,6258.599999999999
+CUST11189,59,West,Standard,Quarterly,Net Banking,16,799.0,5,3,2,37.1,2.4,0,9108.6
+CUST11190,19,South,Standard,Quarterly,Credit Card,8,849.0,10,0,1,12.2,3.5,0,9169.2
+CUST11191,20,South,Standard,Annual,UPI,25,799.0,5,0,0,20.8,3.2,0,9108.6
+CUST11192,40,East,Standard,Monthly,UPI,32,799.0,15,1,0,21.6,4.0,0,8149.8
+CUST11193,29,North,Basic,Monthly,Net Banking,26,549.0,20,1,1,27.4,4.3,0,5270.400000000001
+CUST11194,37,North,Standard,Quarterly,Credit Card,22,799.0,5,4,1,20.7,4.1,0,9108.6
+CUST11195,22,South,Basic,Quarterly,Net Banking,31,499.0,5,1,0,16.3,3.5,0,5688.599999999999
+CUST11196,54,North,Standard,Quarterly,Net Banking,43,849.0,0,2,1,23.7,4.0,0,10188.0
+CUST11197,55,South,Premium,Monthly,UPI,10,1199.0,0,1,1,19.3,2.1,0,14388.0
+CUST11198,47,East,Standard,Monthly,Debit Card,12,799.0,5,2,0,26.5,4.5,0,9108.6
+CUST11199,26,South,Premium,Monthly,Debit Card,28,1199.0,0,0,1,15.5,3.1,0,14388.0
+CUST11200,51,South,Basic,Monthly,Net Banking,6,499.0,15,4,2,13.8,5.0,0,5089.8
+CUST11201,52,East,Standard,Quarterly,UPI,20,799.0,0,2,1,32.5,4.5,0,9588.0
+CUST11202,39,North,Premium,Quarterly,Credit Card,5,1249.0,5,0,0,40.2,3.3,0,14238.599999999999
+CUST11203,41,South,Basic,Monthly,Debit Card,23,499.0,10,2,0,36.6,3.5,0,5389.2
+CUST11204,34,South,Basic,Monthly,Credit Card,9,549.0,10,3,0,21.4,4.6,1,5929.2
+CUST11205,27,East,Standard,Monthly,Debit Card,29,799.0,5,2,1,30.4,1.5,0,9108.6
+CUST11206,47,North,Basic,Monthly,UPI,16,499.0,15,2,1,16.5,3.4,0,5089.8
+CUST11207,40,South,Standard,Quarterly,Net Banking,46,849.0,5,2,1,26.1,5.0,0,9678.6
+CUST11208,49,East,Premium,Annual,Credit Card,22,1249.0,5,0,1,17.3,4.3,0,14238.599999999999
+CUST11209,34,South,Standard,Monthly,Credit Card,8,849.0,0,0,2,32.1,2.7,1,10188.0
+CUST11210,34,West,Basic,Quarterly,Net Banking,20,599.0,5,1,1,31.0,3.8,0,6828.599999999999
+CUST11211,31,East,Standard,Annual,Credit Card,14,799.0,15,3,1,38.6,2.6,0,8149.8
+CUST11212,26,North,Standard,Annual,Debit Card,39,799.0,10,4,1,20.2,3.2,0,8629.2
+CUST11213,57,North,Basic,Monthly,Net Banking,37,599.0,15,2,2,34.6,3.8,0,6109.8
+CUST11214,19,North,Standard,Annual,Debit Card,34,799.0,5,2,0,26.1,4.0,0,9108.6
+CUST11215,42,North,Standard,Monthly,Debit Card,11,799.0,0,2,3,22.6,4.2,0,9588.0
+CUST11216,56,South,Standard,Monthly,UPI,40,799.0,0,0,1,24.7,4.6,0,9588.0
+CUST11217,26,South,Basic,Monthly,Debit Card,33,549.0,0,0,1,35.6,2.4,0,6588.0
+CUST11218,39,North,Standard,Monthly,UPI,31,799.0,10,0,1,20.9,3.5,0,8629.2
+CUST11219,60,North,Basic,Monthly,Credit Card,44,499.0,10,0,0,21.4,2.7,0,5389.2
+CUST11220,21,North,Basic,Monthly,Credit Card,34,499.0,0,1,1,5.5,3.1,0,5988.0
+CUST11221,43,South,Premium,Monthly,UPI,7,1249.0,5,2,0,20.8,2.8,0,14238.599999999999
+CUST11222,46,North,Standard,Annual,Debit Card,23,799.0,5,3,1,24.1,3.9,0,9108.6
+CUST11223,51,North,Basic,Annual,Net Banking,46,499.0,5,6,0,15.9,4.4,0,5688.599999999999
+CUST11224,40,West,Basic,Monthly,Net Banking,7,549.0,0,3,0,13.9,4.5,0,6588.0
+CUST11225,54,West,Basic,Annual,UPI,25,599.0,0,2,1,7.2,2.5,0,7188.0
+CUST11226,28,North,Basic,Annual,Credit Card,3,549.0,0,2,1,17.3,3.4,0,6588.0
+CUST11227,23,East,Basic,Quarterly,Credit Card,38,549.0,0,0,0,33.4,2.5,0,6588.0
+CUST11228,35,North,Basic,Monthly,Net Banking,20,499.0,0,1,1,10.1,2.5,0,5988.0
+CUST11229,38,West,Standard,Quarterly,UPI,34,799.0,0,2,1,28.3,2.9,0,9588.0
+CUST11230,59,East,Standard,Annual,Net Banking,44,799.0,10,1,0,29.0,3.8,0,8629.2
+CUST11231,53,East,Standard,Quarterly,Debit Card,44,849.0,0,1,2,41.6,4.0,0,10188.0
+CUST11232,58,North,Standard,Monthly,Debit Card,30,799.0,20,0,1,30.3,4.1,0,7670.400000000001
+CUST11233,55,West,Basic,Monthly,UPI,17,549.0,0,0,2,29.6,4.0,0,6588.0
+CUST11234,51,West,Premium,Quarterly,UPI,10,1299.0,5,3,0,24.9,2.7,0,14808.599999999999
+CUST11235,34,East,Premium,Monthly,Debit Card,35,1199.0,5,1,0,22.0,4.6,0,13668.599999999999
+CUST11236,54,North,Premium,Monthly,Credit Card,20,1199.0,0,1,0,28.8,4.2,0,14388.0
+CUST11237,42,South,Premium,Monthly,UPI,18,1199.0,15,4,0,32.0,3.1,0,12229.8
+CUST11238,55,South,Premium,Annual,Debit Card,45,1199.0,0,3,2,23.4,3.2,0,14388.0
+CUST11239,29,West,Standard,Annual,Debit Card,44,799.0,20,2,1,32.3,2.9,0,7670.400000000001
+CUST11240,40,South,Basic,Monthly,Credit Card,27,599.0,15,5,1,45.1,2.3,0,6109.8
+CUST11241,59,West,Standard,Annual,Credit Card,36,799.0,5,2,1,22.6,4.1,0,9108.6
+CUST11242,39,West,Standard,Monthly,Credit Card,23,799.0,5,1,0,22.8,4.2,0,9108.6
+CUST11243,38,West,Standard,Quarterly,Credit Card,32,799.0,10,4,0,21.3,2.7,0,8629.2
+CUST11244,44,South,Standard,Quarterly,Net Banking,10,899.0,5,4,0,23.1,2.4,0,10248.6
+CUST11245,48,West,Basic,Annual,Credit Card,11,549.0,10,4,0,31.8,2.7,0,5929.2
+CUST11246,23,East,Basic,Annual,Net Banking,38,599.0,0,3,1,22.7,3.6,0,7188.0
+CUST11247,44,North,Premium,Monthly,UPI,6,1299.0,0,1,1,23.5,2.3,0,15588.0
+CUST11248,57,North,Standard,Annual,Debit Card,41,799.0,5,3,2,20.0,4.5,0,9108.6
+CUST11249,51,West,Standard,Monthly,Net Banking,47,799.0,5,0,0,25.9,4.5,0,9108.6
+CUST11250,29,North,Basic,Quarterly,UPI,34,499.0,15,0,1,18.0,3.9,0,5089.8
+CUST11251,24,South,Basic,Quarterly,UPI,36,499.0,0,4,0,12.2,4.2,0,5988.0
+CUST11252,27,South,Premium,Quarterly,Net Banking,37,1249.0,15,5,0,25.6,3.6,0,12739.8
+CUST11253,34,North,Standard,Monthly,UPI,17,799.0,0,2,2,37.8,3.9,0,9588.0
+CUST11254,43,South,Standard,Annual,UPI,40,799.0,5,1,1,19.7,2.3,0,9108.6
+CUST11255,38,North,Standard,Monthly,Net Banking,40,849.0,0,1,2,13.7,4.8,0,10188.0
+CUST11256,45,North,Standard,Monthly,UPI,12,849.0,5,1,0,37.3,3.1,0,9678.6
+CUST11257,19,North,Basic,Quarterly,Credit Card,21,549.0,0,3,1,22.4,3.4,0,6588.0
+CUST11258,60,West,Standard,Monthly,Credit Card,40,799.0,5,0,0,29.6,5.0,0,9108.6
+CUST11259,18,North,Standard,Annual,Debit Card,19,849.0,15,2,0,16.2,3.3,0,8659.8
+CUST11260,53,West,Standard,Monthly,UPI,3,799.0,5,0,2,22.1,4.2,0,9108.6
+CUST11261,43,North,Standard,Monthly,Debit Card,18,799.0,5,2,2,33.2,4.0,0,9108.6
+CUST11262,46,North,Premium,Annual,Credit Card,19,1249.0,15,0,0,23.0,2.3,0,12739.8
+CUST11263,38,North,Basic,Monthly,Credit Card,47,599.0,10,5,0,23.1,2.6,0,6469.2
+CUST11264,28,South,Premium,Monthly,Credit Card,6,1199.0,5,2,0,10.1,5.0,0,13668.599999999999
+CUST11265,57,West,Basic,Quarterly,UPI,16,499.0,0,2,0,28.3,4.0,1,5988.0
+CUST11266,28,West,Standard,Monthly,UPI,8,799.0,15,7,1,15.7,3.5,1,8149.8
+CUST11267,53,North,Basic,Quarterly,Credit Card,48,499.0,5,1,1,31.0,3.0,0,5688.599999999999
+CUST11268,56,North,Basic,Monthly,Debit Card,18,599.0,0,3,0,23.6,3.8,0,7188.0
+CUST11269,57,South,Standard,Annual,Debit Card,48,799.0,0,0,1,24.3,3.9,0,9588.0
+CUST11270,52,South,Basic,Annual,Net Banking,43,549.0,15,1,0,28.2,3.7,0,5599.8
+CUST11271,51,South,Standard,Quarterly,Credit Card,39,849.0,0,2,1,25.0,4.5,0,10188.0
+CUST11272,41,West,Premium,Monthly,Debit Card,12,1249.0,20,1,1,35.7,2.7,0,11990.400000000001
+CUST11273,39,West,Basic,Annual,Credit Card,45,499.0,0,2,0,34.5,2.6,0,5988.0
+CUST11274,22,West,Standard,Quarterly,Debit Card,10,799.0,10,0,2,12.3,4.4,0,8629.2
+CUST11275,50,North,Standard,Quarterly,Net Banking,7,799.0,5,1,0,20.6,5.0,0,9108.6
+CUST11276,53,West,Standard,Monthly,Net Banking,46,799.0,5,0,1,28.7,4.3,0,9108.6
+CUST11277,37,East,Basic,Annual,Credit Card,1,499.0,15,4,0,14.5,4.7,0,5089.8
+CUST11278,36,East,Basic,Quarterly,Debit Card,36,549.0,5,2,1,9.5,3.4,0,6258.599999999999
+CUST11279,52,South,Basic,Monthly,UPI,21,499.0,5,1,0,15.9,3.7,0,5688.599999999999
+CUST11280,60,West,Basic,Monthly,Net Banking,37,549.0,0,0,2,21.1,3.7,0,6588.0
+CUST11281,34,East,Basic,Annual,Credit Card,24,499.0,0,8,1,2.0,3.5,0,5988.0
+CUST11282,60,South,Standard,Monthly,Credit Card,25,849.0,0,1,1,13.1,4.8,0,10188.0
+CUST11283,51,West,Premium,Annual,Debit Card,7,1299.0,10,3,0,7.8,4.5,0,14029.2
+CUST11284,26,North,Premium,Quarterly,Credit Card,42,1199.0,0,2,0,31.2,3.1,0,14388.0
+CUST11285,43,East,Standard,Quarterly,Net Banking,17,899.0,0,1,4,29.5,2.0,0,10788.0
+CUST11286,19,North,Basic,Monthly,Credit Card,29,549.0,5,1,0,24.2,3.4,0,6258.599999999999
+CUST11287,26,West,Basic,Monthly,Credit Card,30,549.0,10,4,2,22.8,2.5,0,5929.2
+CUST11288,26,East,Basic,Annual,UPI,7,549.0,10,1,0,26.4,3.5,0,5929.2
+CUST11289,57,West,Basic,Monthly,UPI,33,499.0,0,1,1,14.0,2.5,0,5988.0
+CUST11290,34,North,Standard,Quarterly,Net Banking,7,799.0,0,2,0,32.0,4.6,0,9588.0
+CUST11291,18,East,Standard,Monthly,Debit Card,24,799.0,20,2,1,22.7,4.1,0,7670.400000000001
+CUST11292,42,North,Basic,Monthly,UPI,11,499.0,0,0,0,29.3,4.1,0,5988.0
+CUST11293,60,West,Basic,Monthly,Debit Card,9,599.0,15,2,1,29.0,4.5,0,6109.8
+CUST11294,57,West,Premium,Monthly,Net Banking,12,1249.0,15,1,0,26.3,3.9,0,12739.8
+CUST11295,59,North,Standard,Annual,UPI,35,799.0,10,3,0,24.5,4.0,1,8629.2
+CUST11296,42,East,Basic,Monthly,Debit Card,4,549.0,0,1,4,23.9,4.8,0,6588.0
+CUST11297,56,North,Premium,Monthly,UPI,36,1249.0,15,2,0,21.5,3.4,0,12739.8
+CUST11298,52,West,Premium,Monthly,Net Banking,28,1199.0,10,6,1,25.9,4.0,0,12949.2
+CUST11299,20,North,Basic,Monthly,Net Banking,13,499.0,5,3,3,23.6,2.6,0,5688.599999999999
+CUST11300,54,West,Basic,Monthly,UPI,23,499.0,5,0,0,18.1,3.6,0,5688.599999999999
+CUST11301,47,North,Standard,Annual,Debit Card,19,899.0,0,2,1,26.9,5.0,0,10788.0
+CUST11302,55,East,Premium,Monthly,Credit Card,42,1249.0,0,4,1,24.2,4.2,0,14988.0
+CUST11303,51,East,Premium,Monthly,Credit Card,37,1199.0,5,0,0,31.7,3.4,0,13668.599999999999
+CUST11304,29,North,Basic,Monthly,UPI,39,499.0,5,3,0,7.5,3.7,0,5688.599999999999
+CUST11305,36,North,Standard,Annual,Debit Card,24,849.0,5,2,0,22.3,3.5,0,9678.6
+CUST11306,54,East,Standard,Monthly,Credit Card,16,899.0,5,3,1,16.2,3.7,0,10248.6
+CUST11307,34,West,Standard,Monthly,Net Banking,33,849.0,5,2,0,17.9,3.1,0,9678.6
+CUST11308,27,East,Basic,Quarterly,Debit Card,12,549.0,10,3,0,26.5,3.9,0,5929.2
+CUST11309,29,West,Premium,Quarterly,Credit Card,34,1199.0,15,1,0,10.5,4.0,1,12229.8
+CUST11310,33,North,Standard,Monthly,Debit Card,7,799.0,0,3,0,23.1,3.5,0,9588.0
+CUST11311,41,North,Premium,Monthly,UPI,11,1199.0,5,1,0,22.2,3.6,0,13668.599999999999
+CUST11312,36,West,Premium,Quarterly,Debit Card,31,1249.0,0,5,1,13.6,3.8,0,14988.0
+CUST11313,25,North,Standard,Monthly,Credit Card,29,799.0,10,0,2,23.3,3.0,0,8629.2
+CUST11314,48,West,Standard,Annual,UPI,13,849.0,10,6,1,15.9,3.9,0,9169.2
+CUST11315,38,South,Standard,Quarterly,Debit Card,31,799.0,15,3,0,39.6,4.2,0,8149.8
+CUST11316,34,East,Basic,Monthly,Net Banking,2,549.0,0,2,1,31.6,4.8,0,6588.0
+CUST11317,40,South,Standard,Monthly,Credit Card,39,799.0,20,3,0,22.5,3.8,0,7670.400000000001
+CUST11318,54,West,Basic,Monthly,UPI,15,499.0,0,1,1,18.5,3.0,0,5988.0
+CUST11319,33,East,Standard,Quarterly,Debit Card,11,849.0,10,3,0,26.0,3.4,0,9169.2
+CUST11320,23,West,Basic,Monthly,Net Banking,34,499.0,0,1,0,28.1,2.5,0,5988.0
+CUST11321,25,East,Basic,Monthly,Credit Card,39,599.0,15,2,0,24.0,4.2,0,6109.8
+CUST11322,42,East,Basic,Quarterly,Net Banking,4,549.0,5,2,0,13.9,1.6,0,6258.599999999999
+CUST11323,35,East,Basic,Annual,Debit Card,11,499.0,10,1,1,20.3,4.4,0,5389.2
+CUST11324,42,East,Standard,Monthly,Debit Card,29,849.0,15,2,1,22.6,4.5,0,8659.8
+CUST11325,29,West,Standard,Annual,UPI,2,899.0,0,2,2,24.3,1.0,0,10788.0
+CUST11326,32,East,Standard,Monthly,Net Banking,16,799.0,0,2,2,24.5,4.6,0,9588.0
+CUST11327,43,East,Basic,Monthly,UPI,39,599.0,15,5,0,27.8,4.4,0,6109.8
+CUST11328,58,South,Basic,Monthly,Credit Card,13,499.0,0,1,0,32.7,3.2,0,5988.0
+CUST11329,43,North,Basic,Monthly,UPI,37,499.0,0,0,1,30.1,2.4,0,5988.0
+CUST11330,49,North,Basic,Monthly,Credit Card,17,549.0,5,4,1,26.7,2.7,1,6258.599999999999
+CUST11331,27,South,Premium,Monthly,Debit Card,21,1199.0,5,4,1,11.9,2.8,0,13668.599999999999
+CUST11332,33,South,Basic,Annual,Debit Card,44,499.0,0,3,1,31.5,4.7,0,5988.0
+CUST11333,24,West,Basic,Annual,Net Banking,19,499.0,0,4,2,28.6,3.1,0,5988.0
+CUST11334,34,West,Basic,Quarterly,Credit Card,7,499.0,0,2,1,20.0,4.3,0,5988.0
+CUST11335,40,West,Basic,Monthly,Debit Card,38,549.0,5,0,0,22.2,3.4,1,6258.599999999999
+CUST11336,43,South,Standard,Monthly,Net Banking,8,849.0,15,0,0,22.5,3.5,0,8659.8
+CUST11337,38,South,Standard,Monthly,Net Banking,13,899.0,20,3,0,18.5,2.1,0,8630.4
+CUST11338,39,East,Basic,Quarterly,UPI,37,549.0,10,4,0,8.0,2.5,0,5929.2
+CUST11339,24,West,Basic,Annual,Net Banking,2,499.0,0,2,0,13.1,4.7,0,5988.0
+CUST11340,31,West,Standard,Monthly,Debit Card,41,799.0,15,0,2,14.7,3.4,1,8149.8
+CUST11341,32,West,Basic,Monthly,UPI,11,499.0,5,0,0,6.3,3.8,0,5688.599999999999
+CUST11342,24,North,Basic,Monthly,Credit Card,24,549.0,0,1,2,13.1,5.0,0,6588.0
+CUST11343,26,East,Premium,Monthly,Credit Card,6,1199.0,15,1,1,31.1,3.4,0,12229.8
+CUST11344,25,West,Standard,Monthly,Debit Card,26,799.0,10,2,1,25.9,3.3,0,8629.2
+CUST11345,40,West,Standard,Quarterly,Debit Card,7,899.0,10,0,0,14.2,4.6,0,9709.2
+CUST11346,46,West,Standard,Quarterly,UPI,39,849.0,10,0,1,16.5,3.5,1,9169.2
+CUST11347,35,North,Standard,Monthly,UPI,19,799.0,0,1,0,31.8,3.8,0,9588.0
+CUST11348,48,North,Standard,Monthly,Debit Card,6,799.0,0,2,3,31.6,4.4,0,9588.0
+CUST11349,47,South,Standard,Annual,Debit Card,43,899.0,10,1,0,22.6,3.5,0,9709.2
+CUST11350,56,East,Standard,Monthly,Credit Card,29,899.0,0,4,1,31.4,4.2,0,10788.0
+CUST11351,52,South,Basic,Monthly,Credit Card,43,499.0,5,2,0,15.9,3.4,0,5688.599999999999
+CUST11352,35,East,Standard,Monthly,Credit Card,39,799.0,10,3,1,23.8,4.4,0,8629.2
+CUST11353,59,North,Standard,Monthly,Debit Card,2,849.0,10,2,0,10.2,3.9,0,9169.2
+CUST11354,56,West,Premium,Monthly,Net Banking,19,1249.0,5,3,0,19.1,3.3,0,14238.599999999999
+CUST11355,34,South,Standard,Annual,Debit Card,4,849.0,10,0,0,22.2,3.6,0,9169.2
+CUST11356,31,West,Standard,Monthly,Debit Card,6,799.0,15,4,0,8.5,1.3,0,8149.8
+CUST11357,48,South,Basic,Monthly,Credit Card,37,599.0,10,2,0,26.7,4.6,0,6469.2
+CUST11358,41,North,Standard,Quarterly,Debit Card,28,799.0,0,2,0,28.1,2.4,0,9588.0
+CUST11359,52,North,Basic,Monthly,UPI,30,499.0,0,1,2,30.1,2.5,0,5988.0
+CUST11360,51,North,Basic,Annual,Debit Card,7,549.0,0,2,1,40.7,3.1,0,6588.0
+CUST11361,20,South,Basic,Annual,Debit Card,9,499.0,0,1,0,25.3,1.9,0,5988.0
+CUST11362,54,East,Standard,Monthly,Debit Card,25,899.0,0,1,0,21.5,3.9,0,10788.0
+CUST11363,60,South,Basic,Quarterly,Debit Card,33,499.0,0,0,1,9.2,3.8,0,5988.0
+CUST11364,57,East,Standard,Monthly,Net Banking,1,849.0,5,3,1,25.1,3.1,0,9678.6
+CUST11365,43,South,Premium,Annual,Debit Card,6,1199.0,15,5,0,26.5,2.9,0,12229.8
+CUST11366,40,South,Basic,Monthly,UPI,18,549.0,0,2,1,11.2,2.9,0,6588.0
+CUST11367,56,North,Standard,Annual,UPI,10,799.0,10,1,1,20.1,4.1,0,8629.2
+CUST11368,32,West,Standard,Quarterly,Debit Card,28,849.0,10,0,3,22.1,2.1,0,9169.2
+CUST11369,21,West,Basic,Monthly,Credit Card,11,549.0,0,1,1,26.2,3.1,0,6588.0
+CUST11370,46,East,Standard,Monthly,Net Banking,33,799.0,15,2,1,28.8,2.1,0,8149.8
+CUST11371,39,West,Basic,Annual,Debit Card,1,499.0,5,0,0,17.7,4.2,0,5688.599999999999
+CUST11372,42,South,Standard,Annual,Debit Card,13,799.0,5,2,0,23.6,3.2,0,9108.6
+CUST11373,30,South,Standard,Monthly,Debit Card,37,849.0,10,1,0,26.6,4.0,0,9169.2
+CUST11374,35,North,Standard,Quarterly,Credit Card,20,799.0,0,1,1,20.5,4.6,0,9588.0
+CUST11375,50,North,Standard,Monthly,Credit Card,1,799.0,10,5,0,18.6,4.6,0,8629.2
+CUST11376,33,West,Basic,Monthly,Credit Card,3,499.0,0,0,0,27.7,2.6,0,5988.0
+CUST11377,59,East,Basic,Monthly,Net Banking,18,599.0,15,2,3,20.6,3.8,0,6109.8
+CUST11378,19,West,Standard,Monthly,UPI,41,799.0,5,0,1,12.4,4.5,0,9108.6
+CUST11379,52,West,Standard,Annual,Net Banking,14,799.0,10,0,0,33.0,4.1,0,8629.2
+CUST11380,59,West,Premium,Monthly,Credit Card,31,1249.0,0,0,0,13.3,4.2,0,14988.0
+CUST11381,51,West,Premium,Annual,UPI,27,1249.0,10,3,0,21.2,1.9,0,13489.2
+CUST11382,47,South,Premium,Monthly,UPI,17,1199.0,10,4,0,24.6,4.1,1,12949.2
+CUST11383,30,East,Standard,Monthly,Credit Card,46,899.0,5,4,1,25.6,2.8,0,10248.6
+CUST11384,30,South,Basic,Monthly,Credit Card,29,549.0,10,1,0,23.4,4.1,0,5929.2
+CUST11385,35,East,Standard,Monthly,Net Banking,36,799.0,5,2,0,2.0,4.1,0,9108.6
+CUST11386,49,North,Standard,Monthly,Credit Card,37,799.0,15,2,0,16.4,4.0,0,8149.8
+CUST11387,49,West,Basic,Monthly,UPI,26,599.0,5,1,1,24.4,3.4,0,6828.599999999999
+CUST11388,52,South,Premium,Quarterly,Debit Card,17,1199.0,15,3,1,21.1,4.7,0,12229.8
+CUST11389,56,East,Premium,Monthly,Credit Card,22,1199.0,15,3,1,26.1,4.0,0,12229.8
+CUST11390,46,North,Standard,Monthly,Credit Card,25,799.0,5,2,2,30.2,3.8,0,9108.6
+CUST11391,46,North,Basic,Monthly,Net Banking,2,549.0,0,1,0,26.1,2.7,0,6588.0
+CUST11392,33,West,Standard,Annual,Net Banking,22,849.0,5,3,1,16.2,3.9,0,9678.6
+CUST11393,27,East,Premium,Annual,Credit Card,5,1249.0,15,0,1,17.7,5.0,0,12739.8
+CUST11394,47,South,Premium,Monthly,UPI,4,1199.0,0,3,0,35.1,2.2,0,14388.0
+CUST11395,42,West,Basic,Monthly,UPI,36,549.0,5,2,1,20.6,4.2,0,6258.599999999999
+CUST11396,56,South,Basic,Monthly,Debit Card,6,549.0,15,1,0,21.2,4.3,0,5599.8
+CUST11397,37,North,Premium,Annual,Credit Card,21,1199.0,5,3,0,26.1,5.0,1,13668.599999999999
+CUST11398,22,South,Standard,Monthly,Net Banking,13,849.0,10,3,2,31.9,4.2,0,9169.2
+CUST11399,18,South,Standard,Monthly,UPI,37,799.0,0,2,0,14.8,3.5,0,9588.0
+CUST11400,47,West,Premium,Monthly,Debit Card,25,1249.0,0,3,0,18.0,3.9,0,14988.0
+CUST11401,20,South,Basic,Monthly,Credit Card,26,499.0,10,2,0,9.2,3.3,0,5389.2
+CUST11402,31,West,Standard,Monthly,UPI,39,849.0,0,1,1,19.6,4.6,0,10188.0
+CUST11403,47,North,Basic,Quarterly,Credit Card,20,599.0,0,3,0,26.5,2.1,0,7188.0
+CUST11404,21,West,Basic,Monthly,Credit Card,33,599.0,15,1,2,19.1,3.1,0,6109.8
+CUST11405,35,West,Premium,Quarterly,UPI,14,1199.0,5,2,0,36.1,3.9,0,13668.599999999999
+CUST11406,54,East,Standard,Monthly,UPI,36,799.0,20,2,1,22.9,4.6,0,7670.400000000001
+CUST11407,42,South,Premium,Monthly,UPI,17,1199.0,20,4,1,21.2,3.5,0,11510.400000000001
+CUST11408,18,North,Standard,Annual,Credit Card,21,899.0,0,1,2,19.2,2.8,0,10788.0
+CUST11409,32,West,Basic,Monthly,Credit Card,46,549.0,0,1,2,11.1,3.3,0,6588.0
+CUST11410,26,North,Basic,Annual,Debit Card,16,499.0,10,2,0,21.3,3.2,0,5389.2
+CUST11411,32,East,Basic,Monthly,Net Banking,46,499.0,5,3,0,24.9,3.2,0,5688.599999999999
+CUST11412,41,South,Basic,Monthly,Credit Card,16,599.0,0,1,1,21.1,3.1,0,7188.0
+CUST11413,21,West,Basic,Annual,Net Banking,20,499.0,10,1,0,23.8,3.1,0,5389.2
+CUST11414,29,South,Basic,Monthly,UPI,29,499.0,0,2,0,16.6,2.0,0,5988.0
+CUST11415,54,East,Standard,Annual,Credit Card,28,799.0,15,1,1,12.0,3.8,0,8149.8
+CUST11416,54,East,Standard,Monthly,Debit Card,8,799.0,0,2,1,21.2,4.1,0,9588.0
+CUST11417,60,North,Standard,Annual,Debit Card,24,849.0,0,2,1,23.8,4.8,0,10188.0
+CUST11418,23,West,Standard,Monthly,Net Banking,3,899.0,0,1,0,20.7,4.3,0,10788.0
+CUST11419,56,North,Basic,Monthly,UPI,25,599.0,20,1,0,23.6,4.2,0,5750.400000000001
+CUST11420,41,East,Basic,Quarterly,Net Banking,19,499.0,10,2,0,28.2,3.8,0,5389.2
+CUST11421,28,South,Standard,Annual,UPI,33,849.0,15,1,1,28.2,1.9,0,8659.8
+CUST11422,30,North,Standard,Annual,Debit Card,2,799.0,5,2,0,28.9,3.8,0,9108.6
+CUST11423,51,North,Basic,Annual,Net Banking,15,499.0,5,2,0,30.0,3.6,0,5688.599999999999
+CUST11424,42,South,Premium,Annual,Debit Card,22,1299.0,0,3,0,26.0,4.4,0,15588.0
+CUST11425,24,North,Standard,Monthly,Debit Card,10,799.0,5,3,1,24.9,4.0,0,9108.6
+CUST11426,21,South,Standard,Monthly,UPI,18,799.0,5,2,2,37.5,3.4,0,9108.6
+CUST11427,25,West,Basic,Monthly,Net Banking,22,599.0,10,4,1,28.3,5.0,0,6469.2
+CUST11428,37,South,Standard,Monthly,Net Banking,46,799.0,0,4,1,15.2,4.3,0,9588.0
+CUST11429,46,West,Standard,Monthly,Debit Card,27,849.0,20,1,1,7.1,3.8,1,8150.400000000001
+CUST11430,27,South,Standard,Monthly,Debit Card,13,899.0,0,3,1,20.1,3.9,0,10788.0
+CUST11431,60,East,Standard,Monthly,UPI,33,799.0,20,1,1,27.0,3.6,0,7670.400000000001
+CUST11432,51,East,Premium,Quarterly,Credit Card,5,1199.0,0,0,1,29.7,3.5,0,14388.0
+CUST11433,43,West,Standard,Monthly,Credit Card,26,799.0,5,3,0,12.0,1.5,0,9108.6
+CUST11434,58,West,Basic,Monthly,Debit Card,13,499.0,5,3,2,27.8,2.7,0,5688.599999999999
+CUST11435,20,East,Standard,Monthly,Credit Card,27,799.0,5,0,2,31.1,3.0,0,9108.6
+CUST11436,23,West,Standard,Quarterly,Credit Card,14,849.0,5,0,0,26.9,3.9,0,9678.6
+CUST11437,22,South,Standard,Quarterly,Credit Card,24,799.0,5,4,0,25.3,2.0,0,9108.6
+CUST11438,22,South,Basic,Quarterly,Credit Card,3,499.0,5,1,1,20.9,3.0,0,5688.599999999999
+CUST11439,40,East,Basic,Monthly,Debit Card,47,549.0,10,4,1,18.3,2.9,0,5929.2
+CUST11440,26,North,Premium,Monthly,Credit Card,30,1249.0,10,2,0,28.3,3.6,0,13489.2
+CUST11441,52,South,Standard,Monthly,Credit Card,35,899.0,15,2,1,26.7,3.9,0,9169.8
+CUST11442,37,West,Premium,Monthly,UPI,48,1199.0,0,3,1,19.4,2.9,0,14388.0
+CUST11443,59,North,Standard,Monthly,Debit Card,14,849.0,10,2,0,42.3,3.0,0,9169.2
+CUST11444,52,North,Standard,Monthly,Net Banking,12,849.0,5,2,0,9.9,2.9,0,9678.6
+CUST11445,35,South,Standard,Monthly,Net Banking,28,799.0,5,0,0,20.1,3.1,0,9108.6
+CUST11446,34,South,Premium,Annual,UPI,44,1199.0,5,3,2,15.8,3.5,0,13668.599999999999
+CUST11447,41,North,Standard,Annual,UPI,29,799.0,0,2,1,25.1,4.7,0,9588.0
+CUST11448,20,North,Standard,Monthly,Debit Card,43,849.0,0,2,1,6.4,2.6,0,10188.0
+CUST11449,49,East,Basic,Monthly,Net Banking,17,499.0,0,1,1,32.2,5.0,0,5988.0
+CUST11450,52,West,Standard,Monthly,Credit Card,40,899.0,0,1,0,30.0,2.4,0,10788.0
+CUST11451,55,East,Standard,Monthly,UPI,21,849.0,10,1,0,24.1,4.4,0,9169.2
+CUST11452,30,South,Basic,Annual,Net Banking,23,599.0,10,3,0,19.5,3.1,0,6469.2
+CUST11453,42,East,Basic,Monthly,Debit Card,20,499.0,20,1,0,27.7,2.7,0,4790.400000000001
+CUST11454,26,East,Basic,Quarterly,Credit Card,11,499.0,10,4,0,24.6,4.7,0,5389.2
+CUST11455,21,East,Basic,Monthly,Debit Card,34,499.0,0,2,0,29.6,3.6,0,5988.0
+CUST11456,31,East,Basic,Annual,UPI,10,499.0,15,1,1,21.0,3.5,1,5089.8
+CUST11457,54,West,Standard,Monthly,Net Banking,10,899.0,15,1,1,20.5,3.3,0,9169.8
+CUST11458,51,West,Premium,Quarterly,Net Banking,43,1199.0,5,3,2,30.6,3.0,0,13668.599999999999
+CUST11459,28,North,Standard,Monthly,Net Banking,6,799.0,5,2,1,27.1,3.3,0,9108.6
+CUST11460,58,South,Basic,Quarterly,Net Banking,36,499.0,20,0,1,20.6,1.0,0,4790.400000000001
+CUST11461,20,East,Basic,Monthly,Credit Card,24,499.0,5,3,0,24.9,1.8,0,5688.599999999999
+CUST11462,45,North,Standard,Monthly,Credit Card,12,849.0,15,1,0,23.5,3.9,0,8659.8
+CUST11463,46,North,Standard,Annual,Debit Card,43,849.0,0,0,0,25.7,4.6,0,10188.0
+CUST11464,26,North,Premium,Annual,Credit Card,23,1249.0,0,6,0,32.2,4.7,0,14988.0
+CUST11465,20,West,Standard,Annual,UPI,27,799.0,5,1,1,19.2,2.6,0,9108.6
+CUST11466,42,East,Standard,Quarterly,UPI,45,899.0,5,4,0,16.8,3.7,0,10248.6
+CUST11467,51,East,Basic,Annual,Net Banking,37,549.0,15,3,0,24.2,1.5,0,5599.8
+CUST11468,29,South,Standard,Monthly,UPI,6,799.0,20,3,0,17.7,3.2,0,7670.400000000001
+CUST11469,59,East,Basic,Monthly,Debit Card,1,499.0,5,3,0,14.7,4.2,0,5688.599999999999
+CUST11470,26,East,Premium,Monthly,Credit Card,6,1299.0,0,3,1,29.9,3.5,0,15588.0
+CUST11471,32,North,Standard,Quarterly,Credit Card,22,849.0,15,1,1,19.7,3.2,0,8659.8
+CUST11472,57,South,Basic,Monthly,Credit Card,41,549.0,10,0,0,7.1,3.5,0,5929.2
+CUST11473,42,East,Basic,Monthly,UPI,24,499.0,0,1,1,28.8,4.7,0,5988.0
+CUST11474,22,West,Basic,Quarterly,Credit Card,25,499.0,5,1,0,18.5,3.3,0,5688.599999999999
+CUST11475,28,East,Standard,Annual,Net Banking,15,849.0,10,0,1,26.6,3.6,0,9169.2
+CUST11476,51,North,Basic,Monthly,Net Banking,26,549.0,10,1,0,30.7,4.9,0,5929.2
+CUST11477,41,West,Standard,Monthly,Net Banking,8,799.0,5,3,1,23.5,3.3,0,9108.6
+CUST11478,32,North,Basic,Monthly,UPI,24,549.0,0,0,0,5.7,2.0,0,6588.0
+CUST11479,55,East,Standard,Monthly,Credit Card,48,799.0,20,0,0,6.3,4.7,0,7670.400000000001
+CUST11480,25,West,Premium,Monthly,UPI,38,1249.0,10,2,0,16.6,4.4,0,13489.2
+CUST11481,22,South,Standard,Quarterly,Credit Card,6,899.0,5,1,0,21.5,1.5,0,10248.6
+CUST11482,43,South,Standard,Quarterly,Debit Card,35,899.0,0,4,1,31.6,3.4,0,10788.0
+CUST11483,35,West,Basic,Quarterly,Debit Card,42,499.0,10,0,1,24.3,3.5,0,5389.2
+CUST11484,23,West,Basic,Monthly,UPI,1,499.0,0,2,0,42.9,4.7,0,5988.0
+CUST11485,54,North,Standard,Annual,Net Banking,46,849.0,0,4,1,10.1,3.5,0,10188.0
+CUST11486,30,West,Basic,Monthly,UPI,36,549.0,5,2,3,23.0,3.6,0,6258.599999999999
+CUST11487,45,North,Standard,Monthly,Net Banking,12,799.0,0,4,0,18.4,3.7,0,9588.0
+CUST11488,22,East,Basic,Annual,Credit Card,38,599.0,10,1,2,23.9,3.1,0,6469.2
+CUST11489,30,North,Basic,Monthly,Net Banking,11,499.0,0,2,0,36.0,4.7,0,5988.0
+CUST11490,34,West,Basic,Monthly,Net Banking,12,499.0,10,0,1,36.5,2.8,0,5389.2
+CUST11491,57,West,Premium,Annual,Credit Card,42,1199.0,0,2,0,22.4,3.1,0,14388.0
+CUST11492,49,East,Basic,Monthly,Debit Card,39,499.0,0,2,1,28.9,3.5,0,5988.0
+CUST11493,46,West,Standard,Quarterly,Credit Card,7,799.0,0,4,0,23.7,2.3,0,9588.0
+CUST11494,20,West,Basic,Monthly,UPI,11,599.0,15,1,0,13.4,5.0,0,6109.8
+CUST11495,57,South,Standard,Quarterly,UPI,36,799.0,15,5,1,22.1,3.5,0,8149.8
+CUST11496,51,South,Basic,Monthly,UPI,31,499.0,0,1,1,18.0,4.2,0,5988.0
+CUST11497,57,East,Premium,Monthly,UPI,33,1249.0,10,0,0,21.5,2.6,0,13489.2
+CUST11498,44,North,Premium,Quarterly,UPI,13,1249.0,10,3,2,15.2,4.1,0,13489.2
+CUST11499,30,South,Basic,Monthly,Debit Card,18,549.0,20,1,1,23.2,4.2,0,5270.400000000001
+CUST11500,50,North,Premium,Monthly,Debit Card,41,1199.0,5,3,0,24.4,4.3,0,13668.599999999999
